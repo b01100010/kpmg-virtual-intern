@@ -1,0 +1,1001 @@
+customer_id,first_name,cluster,wealth_segment,recency,frequency,monetary,past_3_years_bike_related_purchases,owns_car,property_valuation,age,tenure
+941,Tye,1,Affluent Customer,34,10,11668.95,13.0,1.0,8.0,28.0,1.0
+2637,Marcile,1,Mass Customer,55,11,11222.65,28.0,1.0,10.0,51.0,11.0
+1460,Morley,1,High Net Worth,13,8,10787.6,92.0,1.0,9.0,50.0,13.0
+1558,Oberon,1,Affluent Customer,9,9,10640.3,14.0,0.0,10.0,32.0,2.0
+729,Ammamaria,1,Affluent Customer,2,10,10497.78,30.0,0.0,9.0,50.0,11.0
+3326,Wes,1,High Net Worth,30,13,10422.04,83.0,1.0,9.0,48.0,22.0
+322,De,1,Mass Customer,2,12,10341.57,19.0,1.0,6.0,46.0,11.0
+2770,Olvan,1,High Net Worth,31,9,10028.8,24.0,1.0,6.0,46.0,13.0
+1597,Jeffry,1,Affluent Customer,26,12,9739.46,93.0,0.0,10.0,46.0,14.0
+1887,Kynthia,1,Affluent Customer,44,11,9695.59,22.0,1.0,9.0,58.0,8.0
+195,Talyah,1,Mass Customer,1,7,9633.41,34.0,0.0,9.0,65.0,6.0
+363,Sabrina,1,Mass Customer,15,6,9458.17,82.0,1.0,12.0,35.0,7.0
+1482,Georas,1,Mass Customer,69,12,9269.16,29.0,0.0,8.0,44.0,12.0
+936,Raffaello,1,High Net Worth,33,12,9244.9,64.0,0.0,2.0,35.0,3.0
+2046,Charis,1,Mass Customer,34,9,9188.77,3.0,1.0,8.0,64.0,13.0
+2788,Melantha,1,Affluent Customer,45,11,9061.47,45.0,0.0,10.0,55.0,4.0
+3232,Rose,1,Mass Customer,9,13,8903.62,7.0,1.0,10.0,30.0,9.0
+832,Shaun,1,Mass Customer,18,12,8868.62,30.0,0.0,3.0,45.0,14.0
+2912,Tobit,1,High Net Worth,47,13,8835.01,60.0,0.0,11.0,47.0,4.0
+1866,Huberto,1,Mass Customer,39,9,8834.6,27.0,0.0,12.0,31.0,2.0
+1559,Hilton,1,High Net Worth,57,8,8624.72,63.0,1.0,9.0,48.0,12.0
+999,Dido,1,High Net Worth,55,10,8611.95,12.0,0.0,9.0,35.0,4.0
+213,Lockwood,1,High Net Worth,29,11,8544.5,13.0,1.0,4.0,27.0,6.0
+1140,Deana,1,Mass Customer,7,13,8533.23,32.0,1.0,10.0,37.0,13.0
+3117,Nisse,1,Affluent Customer,26,9,8531.16,68.0,1.0,7.0,28.0,6.0
+1625,Caryl,1,Mass Customer,10,8,8499.59,20.0,1.0,8.0,45.0,10.0
+2492,Gayelord,1,High Net Worth,8,10,8437.43,35.0,0.0,9.0,49.0,9.0
+3048,Kenon,1,Mass Customer,5,13,8379.96,38.0,0.0,1.0,54.0,16.0
+473,Benji,1,Mass Customer,116,9,8364.66,2.0,1.0,9.0,46.0,20.0
+2860,Charity,1,Mass Customer,9,9,8357.7,13.0,0.0,7.0,28.0,1.0
+1329,Wendy,1,Mass Customer,5,11,8352.16,65.0,0.0,7.0,34.0,11.0
+841,Hanan,1,Affluent Customer,151,7,8330.09,93.0,1.0,11.0,57.0,8.0
+347,Berkly,1,Mass Customer,60,7,8326.37,50.0,0.0,9.0,58.0,9.0
+3460,Reinhold,1,Mass Customer,56,9,8321.81,22.0,0.0,10.0,24.0,2.0
+1991,Tobe,1,Mass Customer,2,10,8256.08,35.0,1.0,10.0,30.0,8.0
+2379,Trixie,1,Affluent Customer,4,11,8252.73,85.0,1.0,10.0,42.0,15.0
+3242,Lib,1,Affluent Customer,50,7,8252.69,4.0,1.0,8.0,65.0,14.0
+2695,Kippy,1,Mass Customer,5,9,8243.81,88.0,1.0,12.0,47.0,19.0
+2762,Rozamond,1,Mass Customer,17,9,8237.49,34.0,0.0,7.0,30.0,9.0
+1033,Jacob,1,Affluent Customer,15,9,8220.05,70.0,1.0,9.0,28.0,3.0
+733,Ham,1,Mass Customer,47,10,8210.3,25.0,0.0,10.0,49.0,13.0
+2659,Konstance,1,High Net Worth,1,12,8143.93,81.0,1.0,4.0,49.0,11.0
+1076,Siegfried,1,Affluent Customer,10,12,8104.54,33.0,0.0,9.0,23.0,2.0
+1579,Madelaine,1,Affluent Customer,41,10,8102.62,40.0,1.0,10.0,45.0,17.0
+344,Carlene,1,High Net Worth,9,9,8101.26,91.0,1.0,9.0,50.0,4.0
+2999,Rinaldo,1,Affluent Customer,9,11,8095.2,28.0,1.0,8.0,46.0,10.65704063378482
+1722,Fritz,1,Mass Customer,5,9,8086.75,52.0,0.0,4.0,60.0,4.0
+445,Timothy,1,Mass Customer,25,11,8081.86,91.0,0.0,5.0,39.0,5.0
+1808,Charles,1,High Net Worth,77,7,7965.28,98.0,0.0,9.0,57.0,17.0
+2874,Delores,1,Affluent Customer,61,11,7910.31,97.0,0.0,7.0,45.0,18.0
+2733,Jordanna,1,Mass Customer,29,9,7827.41,89.0,1.0,2.0,38.0,17.0
+2464,Cleve,1,Mass Customer,3,13,7817.1,78.0,0.0,8.0,40.0,6.0
+1475,Aristotle,1,Affluent Customer,47,8,7812.17,41.0,1.0,6.0,38.0,7.0
+2458,Leilah,1,High Net Worth,5,7,7756.79,73.0,1.0,10.0,59.0,5.0
+1503,Del,1,Affluent Customer,161,8,7693.78,1.0,0.0,10.0,55.0,6.0
+438,Ebenezer,1,High Net Worth,52,8,7692.39,25.0,1.0,4.0,34.0,13.0
+3212,Corella,1,Affluent Customer,100,7,7666.65,62.0,0.0,12.0,42.0,13.0
+1572,Tam,1,High Net Worth,83,6,7651.02,51.0,1.0,12.0,66.0,16.0
+174,Catie,1,Mass Customer,12,10,7628.24,93.0,0.0,9.0,33.0,12.0
+1290,Vassily,1,High Net Worth,45,9,7616.04,49.0,1.0,5.0,56.0,6.0
+2702,Saraann,1,Affluent Customer,20,8,7613.27,34.0,1.0,9.0,46.0,11.0
+1868,Aloisia,1,Mass Customer,27,6,7566.25,11.0,0.0,5.0,35.0,10.0
+1028,Thorn,1,High Net Worth,9,7,7562.68,10.0,0.0,9.0,24.0,1.0
+2894,Gilburt,1,Mass Customer,87,9,7544.08,91.0,1.0,4.0,46.0,22.0
+921,Gretchen,1,Mass Customer,45,8,7516.02,77.0,0.0,11.0,43.0,7.0
+2565,Joannes,1,Affluent Customer,30,9,7496.36,62.0,1.0,11.0,54.0,9.0
+2476,Hal,1,High Net Worth,15,14,7493.23,13.0,0.0,5.0,67.0,17.0
+3134,Pierette,1,Mass Customer,65,7,7491.11,53.0,0.0,1.0,28.0,5.0
+1530,Alexandr,1,Mass Customer,2,10,7390.75,89.0,1.0,8.0,47.0,9.0
+425,Michaeline,1,Mass Customer,26,7,7388.6,60.0,1.0,3.0,69.0,20.0
+1103,Glynnis,1,High Net Worth,33,12,7367.88,76.0,1.0,10.0,45.0,20.0
+2653,Aylmer,1,Affluent Customer,4,9,7365.48,80.0,0.0,8.0,28.0,1.0
+280,Welch,1,Affluent Customer,44,11,7360.53,15.0,1.0,8.0,28.0,5.0
+1821,Fields,1,High Net Worth,25,12,7335.89,89.0,1.0,9.0,51.0,15.0
+2101,Maryann,1,Mass Customer,21,10,7332.69,71.0,1.0,2.0,25.0,2.0
+725,Gage,1,High Net Worth,4,11,7321.5,61.0,1.0,8.0,58.0,19.0
+3256,Collen,1,Affluent Customer,13,10,7287.87,76.0,0.0,9.0,37.0,6.0
+200,Hube,1,Affluent Customer,8,9,7283.86,7.0,1.0,2.0,66.0,19.0
+853,Nolana,1,Mass Customer,65,9,7263.66,26.0,1.0,2.0,42.0,16.0
+1984,Hewett,1,Mass Customer,49,7,7256.08,70.0,1.0,10.0,24.0,1.0
+3215,Wolfgang,1,Mass Customer,67,7,7247.33,14.0,1.0,11.0,47.0,7.0
+3470,Catherina,1,Affluent Customer,3,8,7228.8,56.0,1.0,11.0,56.0,6.0
+720,Darrel,1,Affluent Customer,21,10,7212.17,67.0,0.0,10.0,92.0,6.0
+320,Aldous,1,Mass Customer,13,10,7204.66,19.0,0.0,2.0,26.0,4.0
+2151,Herrick,1,Affluent Customer,147,7,7187.34,9.0,0.0,3.0,37.0,6.0
+2309,Herc,1,Affluent Customer,54,12,7161.99,40.0,0.0,5.0,38.0,14.0
+1093,Clarita,1,Affluent Customer,100,9,7159.69,63.0,0.0,10.0,27.0,5.0
+799,Harland,1,Mass Customer,11,11,7142.2,39.0,1.0,8.0,46.0,10.65704063378482
+607,Adelaida,1,Mass Customer,59,10,7137.62,55.0,0.0,11.0,47.0,15.0
+2184,Lamar,1,Mass Customer,38,11,7123.0,49.0,0.0,8.0,51.0,11.0
+706,Kane,1,High Net Worth,31,6,7109.4,44.0,1.0,1.0,33.0,5.0
+565,Saleem,1,Mass Customer,105,10,7079.07,30.0,1.0,8.0,64.0,16.0
+1396,Sinclair,1,Mass Customer,10,10,7075.58,20.0,0.0,4.0,36.0,18.0
+8,Rod,1,Mass Customer,23,10,7066.94,31.0,0.0,4.0,61.0,7.0
+1619,Matteo,1,Mass Customer,85,10,7031.79,83.0,1.0,10.0,51.0,6.0
+1317,Barrett,1,Mass Customer,11,9,7024.71,2.0,1.0,2.0,50.0,5.0
+515,Winna,1,High Net Worth,15,9,6986.24,55.0,0.0,12.0,34.0,8.0
+506,Brett,1,Mass Customer,57,10,6985.24,43.0,0.0,10.0,38.0,21.0
+1885,Jerome,1,High Net Worth,5,9,6979.28,18.0,1.0,8.0,41.0,11.0
+1237,Junia,1,High Net Worth,24,11,6961.52,6.0,0.0,4.0,53.0,16.0
+1043,Giorgi,1,Mass Customer,155,8,6933.55,34.0,1.0,7.0,37.0,16.0
+426,Emlyn,1,Affluent Customer,60,9,6933.15,10.0,0.0,8.0,51.0,8.0
+1561,Clemens,1,Mass Customer,44,8,6918.89,47.0,1.0,9.0,48.0,14.0
+117,Nance,1,Mass Customer,6,10,6917.34,75.0,0.0,6.0,41.0,15.0
+2468,Parker,1,High Net Worth,22,9,6900.79,51.0,0.0,8.0,27.0,1.0
+299,Corabelle,1,Mass Customer,93,7,6897.92,80.0,1.0,9.0,67.0,7.0
+3280,Micki,1,Mass Customer,135,8,6881.08,49.0,1.0,11.0,36.0,21.0
+2705,Madalena,1,Mass Customer,3,9,6879.61,11.0,0.0,2.0,27.0,3.0
+2434,Lenci,1,Affluent Customer,1,9,6874.53,40.0,0.0,4.0,66.0,18.0
+2992,Crystal,1,Mass Customer,10,8,6871.54,26.0,1.0,5.0,49.0,10.0
+3146,Fredrika,1,Mass Customer,55,8,6856.09,79.0,0.0,5.0,45.0,15.0
+2489,Emma,1,Mass Customer,41,8,6854.85,42.0,0.0,9.0,47.0,15.0
+2369,Averyl,1,Mass Customer,2,8,6854.59,80.0,1.0,5.0,27.0,1.0
+2989,Mort,1,High Net Worth,71,9,6845.06,37.0,1.0,10.0,23.0,2.0
+2914,Jessamine,1,Affluent Customer,13,12,6835.96,76.0,1.0,9.0,41.0,11.0
+3015,Queenie,1,Affluent Customer,47,10,6814.58,25.0,0.0,9.0,23.0,1.0
+2617,Vanda,1,High Net Worth,127,7,6814.22,79.0,0.0,9.0,64.0,18.0
+255,Keeley,1,Mass Customer,58,11,6813.82,2.0,0.0,2.0,69.0,5.0
+3420,Norby,1,Mass Customer,6,11,6808.18,96.0,1.0,5.0,43.0,19.0
+353,Antonia,1,Mass Customer,24,11,6792.83,9.0,0.0,9.0,43.0,3.0
+1129,Hercule,1,Mass Customer,27,13,6790.69,2.0,1.0,8.0,46.0,9.0
+254,Barbie,1,Mass Customer,42,7,6780.95,98.0,0.0,1.0,62.0,14.0
+2036,Alix,1,Mass Customer,26,12,6770.24,11.0,0.0,10.0,46.0,17.0
+995,Urbano,1,Mass Customer,12,7,6764.67,16.0,1.0,5.0,58.0,19.0
+2826,Loise,1,Mass Customer,12,12,6755.16,73.0,0.0,10.0,61.0,15.0
+2103,Jayme,1,Affluent Customer,15,10,6752.63,94.0,0.0,6.0,48.0,18.0
+1589,Walker,1,Mass Customer,12,6,6738.66,83.0,1.0,9.0,34.0,4.0
+1346,Woody,1,Mass Customer,16,9,6736.53,9.0,0.0,4.0,53.0,19.0
+1890,Carce,1,Mass Customer,45,9,6710.76,89.0,0.0,7.0,51.0,7.0
+983,Shaylyn,1,Affluent Customer,2,8,6710.06,49.0,0.0,11.0,46.0,10.65704063378482
+2929,Winny,1,Mass Customer,2,9,6692.39,97.0,0.0,3.0,24.0,2.0
+1992,Shanta,1,Mass Customer,141,10,6658.89,28.0,1.0,10.0,28.0,3.0
+787,Norma,1,Affluent Customer,76,10,6646.0,29.0,1.0,7.0,26.0,2.0
+973,Annabella,1,High Net Worth,9,8,6639.85,46.0,0.0,7.0,44.0,15.0
+1233,Keeley,1,Affluent Customer,15,9,6634.14,17.0,1.0,11.0,45.0,16.0
+198,Vanya,1,Mass Customer,59,9,6631.87,82.0,0.0,7.0,41.0,16.0
+594,Humfrey,1,Mass Customer,34,9,6630.72,74.0,0.0,9.0,43.0,13.0
+590,Ddene,1,Mass Customer,44,12,6629.57,85.0,1.0,11.0,35.0,11.0
+2755,Karen,1,Mass Customer,29,12,6606.68,66.0,1.0,6.0,24.0,1.0
+2723,Morganne,1,Mass Customer,41,8,6591.0,71.0,1.0,9.0,45.0,18.0
+1084,Serena,1,Affluent Customer,5,11,6580.56,54.0,0.0,4.0,29.0,8.0
+721,Harmonia,1,Affluent Customer,5,7,6579.62,84.0,1.0,8.0,30.0,1.0
+2791,Dew,1,Mass Customer,15,7,6578.15,72.0,0.0,8.0,35.0,3.0
+2508,Virgil,1,Mass Customer,57,10,6568.91,98.0,0.0,8.0,27.0,3.0
+1438,Winifred,1,Mass Customer,7,11,6559.71,27.0,1.0,8.0,48.0,14.0
+2542,Amanda,1,Affluent Customer,44,7,6559.26,43.0,1.0,8.0,57.0,12.0
+173,Ebba,1,Affluent Customer,16,9,6549.51,99.0,0.0,8.0,26.0,1.0
+1797,Basile,1,Mass Customer,55,11,6539.78,49.0,0.0,7.0,49.0,8.0
+1696,Mose,1,High Net Worth,29,9,6524.77,48.0,0.0,10.0,32.0,2.0
+1863,Adelbert,1,High Net Worth,25,6,6524.34,10.0,0.0,1.0,45.0,20.0
+1547,Chiquita,1,Mass Customer,28,9,6523.19,82.0,1.0,10.0,33.0,12.0
+2841,Bibby,1,Mass Customer,17,7,6522.28,19.0,0.0,7.0,60.0,16.0
+3290,Brandyn,1,High Net Worth,3,8,6520.13,22.0,1.0,8.0,61.0,18.0
+273,Nevile,1,Mass Customer,29,10,6519.24,54.0,0.0,9.0,60.0,19.0
+2183,Jillie,1,Mass Customer,9,14,6513.3,61.0,1.0,4.0,51.0,7.0
+2662,Louisette,1,Mass Customer,63,9,6500.3,53.0,1.0,2.0,45.0,16.0
+1811,Sylvan,1,Mass Customer,33,8,6493.8,59.0,0.0,12.0,24.0,1.0
+2592,Archibaldo,1,Mass Customer,38,8,6490.3,84.0,1.0,5.0,28.0,1.0
+2428,Pauly,1,Mass Customer,11,9,6462.95,74.0,1.0,7.0,55.0,9.0
+1285,Tomkin,1,Mass Customer,118,8,6456.51,44.0,1.0,6.0,50.0,12.0
+538,Millicent,1,Mass Customer,5,7,6447.15,33.0,1.0,7.0,67.0,5.0
+1022,Suzann,1,Affluent Customer,84,5,6444.49,56.0,1.0,10.0,33.0,14.0
+3012,Devland,1,Mass Customer,4,6,6440.13,81.0,1.0,2.0,46.0,10.65704063378482
+1506,Andonis,1,Mass Customer,1,10,6435.1,21.0,0.0,8.0,65.0,17.0
+2070,Tiphany,1,Mass Customer,5,9,6433.75,0.0,0.0,7.0,41.0,8.0
+710,Benton,1,High Net Worth,40,7,6431.69,76.0,1.0,8.0,53.0,13.0
+346,Timmie,1,Mass Customer,13,9,6420.7,68.0,0.0,10.0,42.0,3.0
+2616,Andee,1,High Net Worth,43,11,6417.95,28.0,1.0,9.0,53.0,13.0
+2794,Megen,1,Mass Customer,6,7,6417.06,41.0,1.0,8.0,48.0,18.0
+728,Winthrop,1,Mass Customer,26,9,6411.76,60.0,1.0,6.0,67.0,8.0
+2132,Davina,1,High Net Worth,19,8,6401.83,16.0,1.0,9.0,38.0,22.0
+3249,Cortney,1,Mass Customer,34,8,6400.0,46.0,1.0,4.0,42.0,14.0
+2747,Anna-diane,1,Affluent Customer,15,8,6371.15,5.0,0.0,9.0,68.0,11.0
+2982,Celisse,1,Mass Customer,118,7,6366.75,30.0,1.0,9.0,41.0,11.0
+1440,Consuela,1,High Net Worth,20,6,6362.47,19.0,1.0,9.0,57.0,12.0
+3050,Dinnie,1,High Net Worth,67,9,6353.12,90.0,0.0,6.0,25.0,5.0
+37,Laurie,1,High Net Worth,8,9,6338.49,46.0,0.0,1.0,37.0,16.0
+2684,Erastus,1,Mass Customer,39,9,6337.4,96.0,1.0,2.0,59.0,12.0
+1783,Brett,1,Mass Customer,50,12,6331.35,55.0,1.0,8.0,28.0,7.0
+3199,Florry,1,Mass Customer,14,8,6329.52,98.0,1.0,7.0,54.0,15.0
+2019,Neda,1,High Net Worth,53,9,6325.84,48.0,0.0,2.0,70.0,17.0
+1150,Bernelle,1,Mass Customer,104,5,6308.28,64.0,1.0,4.0,48.0,13.0
+2985,Kerby,1,Affluent Customer,39,10,6308.16,69.0,1.0,10.0,37.0,14.0
+946,Bettina,1,High Net Worth,3,8,6305.6,16.0,0.0,10.0,62.0,12.0
+1131,Sigmund,1,Mass Customer,54,8,6295.52,16.0,0.0,3.0,67.0,15.0
+2937,Belia,1,Mass Customer,8,7,6294.38,47.0,0.0,8.0,49.0,15.0
+2201,Trisha,1,Affluent Customer,31,7,6291.68,56.0,1.0,7.0,24.0,1.0
+204,Thorny,1,Mass Customer,28,8,6287.29,56.0,0.0,10.0,47.0,5.0
+2574,Humfrey,1,Mass Customer,28,11,6276.37,73.0,0.0,3.0,43.0,4.0
+2454,Gene,1,Mass Customer,30,10,6272.21,81.0,1.0,8.0,63.0,12.0
+3251,Cammie,1,High Net Worth,8,11,6264.88,95.0,1.0,10.0,47.0,8.0
+1389,Reina,1,Affluent Customer,50,9,6263.12,27.0,0.0,10.0,61.0,15.0
+2190,Maressa,1,Affluent Customer,42,8,6260.31,77.0,0.0,3.0,44.0,13.0
+665,Chan,1,Mass Customer,86,8,6260.02,82.0,0.0,10.0,26.0,5.0
+1331,Edward,1,High Net Worth,6,10,6252.43,12.0,0.0,7.0,36.0,17.0
+2475,Cammi,1,Mass Customer,86,7,6245.25,68.0,0.0,5.0,46.0,20.0
+3118,Cleveland,1,High Net Worth,13,9,6243.82,54.0,0.0,8.0,30.0,9.0
+2961,Merv,1,Mass Customer,3,6,6234.87,56.0,1.0,8.0,48.0,12.0
+2766,Rozanna,1,High Net Worth,48,6,6233.3,93.0,1.0,9.0,34.0,8.0
+1502,Margalit,1,Affluent Customer,27,9,6209.68,52.0,1.0,4.0,33.0,11.0
+2887,Gardiner,1,High Net Worth,25,9,6202.9,42.0,1.0,10.0,49.0,18.0
+2194,Johnette,1,Affluent Customer,43,8,6198.41,79.0,1.0,11.0,65.0,11.0
+380,Teriann,1,Mass Customer,36,8,6196.16,66.0,0.0,1.0,67.0,17.0
+2095,Anette,1,Affluent Customer,21,10,6194.3,69.0,0.0,9.0,34.0,8.0
+3032,Renado,1,Affluent Customer,41,7,6183.31,53.0,1.0,6.0,31.0,5.0
+165,Aldon,1,Mass Customer,9,9,6182.52,61.0,1.0,10.0,39.0,12.0
+1473,Darrick,1,Mass Customer,33,11,6176.3,49.0,1.0,5.0,63.0,20.0
+29,Mona,1,Mass Customer,23,9,6175.3,62.0,0.0,7.0,55.0,19.0
+3405,Gavra,1,Mass Customer,53,9,6167.71,89.0,1.0,6.0,27.0,3.0
+1578,Andreas,1,High Net Worth,17,7,6165.1,60.0,1.0,8.0,45.0,11.0
+2537,Peggi,1,Affluent Customer,23,11,6157.03,8.0,1.0,11.0,34.0,12.0
+2787,Teressa,1,Affluent Customer,38,6,6153.0,92.0,1.0,9.0,43.0,6.0
+1616,Shamus,1,High Net Worth,24,7,6150.25,75.0,1.0,4.0,68.0,19.0
+2651,Silvan,1,Mass Customer,16,8,6148.63,10.0,1.0,6.0,45.0,10.0
+1300,Sisely,1,Affluent Customer,21,6,6148.62,0.0,1.0,9.0,32.0,9.0
+2051,Teresita,1,Affluent Customer,52,6,6140.66,8.0,0.0,12.0,64.0,20.0
+3273,Darline,1,Mass Customer,66,7,6133.65,72.0,0.0,12.0,45.0,11.0
+1168,Iosep,1,Affluent Customer,60,7,6128.86,44.0,0.0,8.0,58.0,18.0
+2240,Niall,1,High Net Worth,32,12,6128.3,4.0,1.0,7.0,54.0,16.0
+621,Constantin,1,High Net Worth,3,9,6126.81,78.0,0.0,7.0,58.0,14.0
+1672,Sharla,1,Affluent Customer,43,12,6123.29,21.0,1.0,11.0,60.0,9.0
+614,Nonnah,1,Mass Customer,19,9,6120.46,45.0,1.0,11.0,28.0,11.0
+2686,Cully,1,Affluent Customer,25,11,6119.73,63.0,0.0,8.0,27.0,4.0
+1493,Lisabeth,1,High Net Worth,21,10,6117.05,51.0,0.0,5.0,36.0,22.0
+1250,Jacklyn,1,Mass Customer,36,10,6093.26,42.0,0.0,7.0,22.0,1.0
+2548,Kristien,1,Mass Customer,4,13,6085.99,11.0,0.0,7.0,52.0,13.0
+39,Hunfredo,1,Mass Customer,35,12,6085.17,5.0,0.0,10.0,44.0,22.0
+569,Jaime,1,Mass Customer,99,4,6084.14,30.0,0.0,2.0,47.0,10.0
+1113,Dorie,1,Mass Customer,27,9,6072.48,45.0,0.0,12.0,31.0,6.0
+2165,Marlie,1,Affluent Customer,1,10,6052.93,16.0,0.0,6.0,46.0,10.65704063378482
+1629,Edsel,1,Mass Customer,2,7,6051.87,46.0,0.0,5.0,49.0,14.0
+943,Holly,1,Affluent Customer,113,7,6038.52,94.0,1.0,11.0,44.0,15.0
+3402,Krystyna,1,Mass Customer,13,9,6036.19,73.0,0.0,1.0,38.0,10.0
+2013,Marge,1,Affluent Customer,16,10,6025.31,99.0,1.0,8.0,28.0,19.0
+3431,York,1,Affluent Customer,29,10,6022.12,97.0,0.0,1.0,27.0,5.0
+2301,Ken,1,Mass Customer,6,7,6010.17,66.0,1.0,10.0,57.0,19.0
+1988,Kelwin,1,Mass Customer,135,8,6006.4,27.0,0.0,5.0,66.0,8.0
+902,Selene,1,Mass Customer,15,9,6003.05,37.0,0.0,3.0,34.0,18.0
+1683,Brenn,1,Mass Customer,83,9,5995.2,72.0,1.0,12.0,46.0,10.65704063378482
+167,Nathalie,1,High Net Worth,15,9,5993.34,95.0,1.0,6.0,54.0,17.0
+80,Pablo,1,Mass Customer,29,10,5988.86,11.0,0.0,1.0,45.0,13.0
+2463,Krystle,1,Mass Customer,65,8,5972.62,54.0,0.0,10.0,45.0,12.0
+1591,Fonz,1,Mass Customer,30,11,5968.91,4.0,1.0,12.0,47.0,14.0
+2750,Sybille,1,High Net Worth,43,11,5964.05,42.0,0.0,10.0,43.0,20.0
+1144,Damon,1,High Net Worth,18,7,5961.25,73.0,1.0,9.0,26.0,5.0
+1299,Maddy,1,Affluent Customer,7,7,5957.78,72.0,0.0,8.0,46.0,12.0
+3055,Viki,1,Mass Customer,59,10,5955.54,96.0,1.0,6.0,24.0,2.0
+2538,Jacinta,1,High Net Worth,36,9,5949.92,13.0,1.0,10.0,64.0,20.0
+3058,Hamnet,1,Mass Customer,25,5,5935.45,67.0,1.0,12.0,37.0,16.0
+239,Wells,1,Affluent Customer,2,9,5928.23,62.0,0.0,3.0,30.0,3.0
+3433,Karissa,1,Mass Customer,1,10,5925.74,10.0,0.0,8.0,25.0,2.0
+3484,Hedi,1,High Net Worth,80,7,5924.55,10.0,1.0,6.0,47.0,20.0
+3108,Trip,1,Mass Customer,54,7,5916.21,94.0,0.0,2.0,56.0,10.0
+1348,Lowe,1,High Net Worth,115,5,5915.86,88.0,0.0,2.0,39.0,13.0
+2169,Jarrad,1,Mass Customer,118,6,5907.85,80.0,0.0,4.0,44.0,18.0
+773,Robbie,1,Affluent Customer,73,8,5907.35,77.0,1.0,3.0,38.0,20.0
+482,Gar,1,Mass Customer,76,10,5887.2,33.0,0.0,9.0,60.0,20.0
+1661,Meggy,1,Affluent Customer,219,6,5880.33,21.0,0.0,11.0,44.0,10.0
+2069,Sol,1,Mass Customer,52,6,5879.97,32.0,1.0,7.0,46.0,10.65704063378482
+2816,Denys,1,Mass Customer,9,10,5878.47,87.0,1.0,9.0,33.0,14.0
+1517,Murdoch,1,Affluent Customer,29,11,5878.15,90.0,0.0,10.0,36.0,12.0
+2523,Lauree,1,Mass Customer,7,10,5877.28,28.0,1.0,4.0,62.0,9.0
+2383,Zaria,1,Mass Customer,22,9,5876.07,34.0,0.0,9.0,45.0,15.0
+2060,Constancia,1,Mass Customer,6,11,5875.14,17.0,0.0,9.0,64.0,17.0
+1762,Gaye,1,Mass Customer,22,12,5870.93,49.0,1.0,9.0,45.0,18.0
+2391,Corny,1,Mass Customer,13,10,5862.45,72.0,0.0,7.0,62.0,14.0
+2336,Karney,1,Affluent Customer,75,9,5853.82,59.0,0.0,8.0,45.0,17.0
+2901,Banky,1,Mass Customer,39,7,5850.34,77.0,1.0,3.0,28.0,6.0
+2591,Estevan,1,High Net Worth,43,6,5839.22,50.0,0.0,12.0,49.0,13.0
+1205,Barton,1,Affluent Customer,23,9,5828.49,38.0,0.0,10.0,45.0,13.0
+3336,Konstantine,1,Mass Customer,75,6,5824.48,47.0,1.0,1.0,44.0,8.0
+2932,Bradly,1,Mass Customer,20,10,5823.71,4.0,0.0,3.0,38.0,17.0
+3286,Kent,1,Mass Customer,10,11,5817.44,23.0,0.0,7.0,62.0,20.0
+3228,Margette,1,Mass Customer,41,7,5814.45,36.0,0.0,1.0,59.0,13.0
+823,Stesha,1,Affluent Customer,24,6,5811.3,91.0,0.0,11.0,33.0,9.0
+1901,Vail,1,Affluent Customer,128,7,5809.11,40.0,0.0,6.0,46.0,8.0
+1461,Earl,1,Mass Customer,19,7,5805.92,71.0,1.0,9.0,66.0,9.0
+2401,Drake,1,Mass Customer,22,8,5804.28,7.0,1.0,6.0,46.0,15.0
+3045,Renato,1,Affluent Customer,66,6,5802.77,52.0,1.0,1.0,27.0,2.0
+168,Reggie,1,Affluent Customer,137,8,5800.6,8.0,1.0,6.0,46.0,10.65704063378482
+2469,Kermie,1,Mass Customer,21,7,5796.21,18.0,1.0,11.0,46.0,10.65704063378482
+3350,Tam,1,Affluent Customer,39,6,5796.16,53.0,0.0,10.0,48.0,6.0
+3044,Russell,1,Affluent Customer,5,9,5793.33,59.0,1.0,12.0,33.0,19.0
+50,Whitby,1,Mass Customer,27,8,5783.66,38.0,1.0,10.0,43.0,16.0
+89,Benedicto,1,Mass Customer,5,9,5779.65,74.0,1.0,11.0,56.0,14.0
+3411,Alena,1,Mass Customer,31,7,5772.78,68.0,1.0,5.0,43.0,20.0
+234,Mead,1,High Net Worth,12,9,5763.13,71.0,0.0,10.0,54.0,12.0
+655,Stuart,1,Affluent Customer,52,6,5753.88,64.0,1.0,8.0,48.0,19.0
+112,Shena,1,High Net Worth,48,6,5742.19,88.0,0.0,11.0,48.0,12.0
+1832,Elicia,1,Mass Customer,85,8,5739.57,53.0,1.0,3.0,59.0,12.0
+1967,Nomi,1,Affluent Customer,23,6,5732.11,88.0,1.0,9.0,37.0,17.0
+461,Jsandye,3,Mass Customer,21,8,5722.38,19.0,1.0,10.0,44.0,14.0
+3086,Pieter,3,High Net Worth,12,9,5713.88,18.0,0.0,7.0,46.0,10.65704063378482
+1106,Sibyl,3,Mass Customer,25,9,5691.61,2.0,0.0,11.0,60.0,15.0
+2580,Kalinda,3,Mass Customer,65,8,5690.45,27.0,1.0,1.0,35.0,13.0
+1357,Waylin,3,High Net Worth,13,10,5689.86,69.0,0.0,1.0,30.0,6.0
+2275,Ursulina,3,High Net Worth,122,6,5688.29,77.0,1.0,2.0,31.0,8.0
+3060,Milton,3,Mass Customer,30,11,5684.73,28.0,1.0,8.0,41.0,6.0
+2510,Nealson,3,Mass Customer,112,6,5681.3,43.0,1.0,4.0,50.0,7.0
+691,Carver,3,Affluent Customer,40,8,5678.4,29.0,1.0,7.0,69.0,5.0
+3191,Bobbette,3,Affluent Customer,8,8,5673.64,29.0,1.0,4.0,64.0,12.0
+1686,Fremont,3,Mass Customer,79,10,5672.85,95.0,1.0,10.0,43.0,16.0
+545,Alecia,3,Mass Customer,7,6,5665.79,43.0,1.0,8.0,45.0,18.0
+151,Donnie,3,Mass Customer,1,7,5665.41,36.0,1.0,9.0,58.0,13.0
+3201,Zed,3,Mass Customer,22,7,5655.87,61.0,1.0,8.0,23.0,1.0
+1725,Corena,3,High Net Worth,61,8,5652.16,80.0,1.0,7.0,44.0,16.0
+1398,Anderea,3,Mass Customer,37,7,5649.83,11.0,0.0,6.0,56.0,17.0
+2187,Brunhilde,3,Mass Customer,64,7,5644.17,52.0,0.0,9.0,25.0,2.0
+2375,Alika,3,Affluent Customer,44,7,5641.47,21.0,0.0,8.0,36.0,8.0
+2347,L;urette,3,High Net Worth,88,9,5640.43,79.0,0.0,12.0,66.0,11.0
+1554,Land,3,Affluent Customer,21,7,5636.08,83.0,0.0,8.0,29.0,3.0
+430,Janice,3,High Net Worth,66,6,5625.17,46.0,1.0,7.0,50.0,11.0
+2351,Felicity,3,Affluent Customer,56,8,5612.84,35.0,1.0,10.0,31.0,10.0
+3379,Elysee,3,Mass Customer,21,6,5599.08,51.0,1.0,11.0,24.0,2.0
+2610,Arliene,3,Mass Customer,113,8,5598.91,41.0,0.0,7.0,69.0,10.0
+1410,Althea,3,High Net Worth,61,7,5597.11,10.0,1.0,5.0,26.0,6.0
+2560,Sherm,3,Mass Customer,46,11,5595.44,7.0,0.0,8.0,43.0,21.0
+2390,Tonya,3,Mass Customer,70,7,5593.6,48.0,0.0,7.0,59.0,12.0
+2856,Milissent,3,Mass Customer,7,7,5583.33,53.0,1.0,10.0,47.0,13.0
+768,Alexia,3,Affluent Customer,6,9,5580.57,5.0,1.0,9.0,49.0,21.0
+3450,Brooke,3,Mass Customer,99,6,5577.06,85.0,0.0,3.0,30.0,6.0
+2076,Beatriz,3,Mass Customer,20,8,5576.17,73.0,1.0,9.0,54.0,5.0
+2879,Tatum,3,Mass Customer,15,8,5572.11,62.0,1.0,9.0,49.0,5.0
+3217,Lorena,3,Mass Customer,9,11,5564.08,95.0,0.0,11.0,55.0,8.0
+2055,Harmon,3,High Net Worth,1,9,5563.63,46.0,0.0,3.0,43.0,7.0
+48,Rebbecca,3,Mass Customer,83,8,5561.08,46.0,1.0,9.0,48.0,8.0
+2883,Ulick,3,Mass Customer,50,7,5553.21,84.0,1.0,8.0,28.0,2.0
+2936,Pavia,3,Mass Customer,60,7,5550.62,23.0,1.0,10.0,39.0,11.0
+3482,Roch,3,Affluent Customer,28,8,5549.59,71.0,1.0,8.0,23.0,2.0
+868,Effie,3,Mass Customer,84,6,5534.83,84.0,1.0,10.0,44.0,11.0
+3240,Ryon,3,Mass Customer,39,10,5534.52,90.0,1.0,8.0,47.0,6.0
+153,Lorilyn,3,Mass Customer,65,7,5522.51,73.0,1.0,8.0,46.0,12.0
+1282,Garald,3,Affluent Customer,39,8,5521.41,99.0,1.0,5.0,43.0,14.0
+2048,Sorcha,3,High Net Worth,58,7,5517.21,22.0,0.0,8.0,63.0,13.0
+2615,Cordelia,3,Mass Customer,56,9,5517.12,23.0,1.0,7.0,25.0,1.0
+669,Fleur,3,Mass Customer,9,11,5513.28,73.0,0.0,7.0,43.0,3.0
+294,Magnum,3,High Net Worth,116,7,5509.67,39.0,0.0,7.0,64.0,5.0
+1428,Morissa,3,High Net Worth,16,10,5508.8,93.0,0.0,8.0,25.0,1.0
+2654,Dawn,3,Mass Customer,109,9,5504.95,83.0,0.0,10.0,45.0,13.0
+3081,Dodi,3,High Net Worth,107,6,5502.82,61.0,1.0,6.0,52.0,9.0
+935,Aldin,3,Mass Customer,54,7,5502.11,76.0,1.0,10.0,29.0,3.0
+2555,Brad,3,Affluent Customer,2,5,5495.54,43.0,0.0,7.0,47.0,11.0
+131,Jana,3,High Net Worth,206,6,5494.91,57.0,0.0,3.0,59.0,8.0
+1213,Matthieu,3,High Net Worth,70,7,5490.29,80.0,0.0,10.0,50.0,15.0
+1306,Doyle,3,Affluent Customer,13,6,5486.1,13.0,1.0,7.0,67.0,13.0
+2590,Roslyn,3,Affluent Customer,51,6,5483.0,48.0,1.0,11.0,59.0,11.0
+2138,Jonell,3,High Net Worth,30,8,5474.02,23.0,0.0,8.0,44.0,15.0
+2822,Rebecca,3,Mass Customer,12,9,5473.67,83.0,0.0,12.0,42.0,3.0
+3406,Lucy,3,Mass Customer,47,10,5463.64,35.0,1.0,9.0,44.0,10.0
+2799,Ilysa,3,Mass Customer,30,8,5460.14,80.0,1.0,9.0,50.0,18.0
+2418,Elspeth,3,Mass Customer,3,7,5457.09,82.0,1.0,5.0,53.0,13.0
+1287,Nicko,3,Mass Customer,68,7,5456.97,72.0,1.0,4.0,63.0,20.0
+2386,Adrianne,3,Mass Customer,13,7,5453.86,93.0,0.0,9.0,26.0,2.0
+1611,Terencio,3,High Net Worth,42,12,5450.34,93.0,1.0,9.0,51.0,13.0
+394,Roanne,3,High Net Worth,46,8,5445.46,70.0,1.0,5.0,46.0,16.0
+1258,Nefen,3,Mass Customer,53,8,5441.22,89.0,0.0,1.0,45.0,6.0
+1667,Jaime,3,High Net Worth,77,7,5432.4,67.0,0.0,12.0,68.0,18.0
+682,Ole,3,Affluent Customer,21,7,5428.94,53.0,1.0,8.0,52.0,7.0
+1404,Emmott,3,Mass Customer,8,10,5426.7,78.0,1.0,8.0,66.0,14.0
+52,Curran,3,Mass Customer,5,6,5417.83,57.0,1.0,8.0,35.0,13.0
+2446,Lovell,3,Affluent Customer,72,7,5417.47,33.0,0.0,11.0,67.0,17.0
+182,Lydon,3,Affluent Customer,14,7,5409.12,99.0,1.0,4.0,30.0,7.0
+2172,Emmery,3,Affluent Customer,30,4,5407.15,6.0,1.0,10.0,44.0,13.0
+2269,Beitris,3,Mass Customer,48,7,5404.64,33.0,0.0,3.0,34.0,9.0
+637,Mercy,3,High Net Worth,8,13,5402.47,60.0,0.0,8.0,47.0,13.0
+2993,Blinnie,3,Affluent Customer,10,8,5400.88,85.0,0.0,9.0,28.0,4.0
+1552,Cully,3,Mass Customer,100,5,5400.32,80.0,1.0,10.0,35.0,8.0
+1773,Nickolas,3,Mass Customer,9,10,5397.56,82.0,1.0,8.0,46.0,10.65704063378482
+1435,Derek,3,Affluent Customer,34,7,5393.83,96.0,1.0,8.0,55.0,19.0
+671,Aristotle,3,Mass Customer,63,6,5393.05,49.0,0.0,10.0,39.0,5.0
+917,Odo,3,Mass Customer,36,8,5392.89,63.0,0.0,9.0,59.0,19.0
+750,Izaak,3,Affluent Customer,59,6,5391.71,42.0,1.0,8.0,28.0,7.0
+2388,Quincy,3,Mass Customer,114,7,5387.65,84.0,0.0,8.0,26.0,1.0
+1858,Gabriella,3,High Net Worth,22,8,5387.47,30.0,1.0,8.0,66.0,11.0
+533,Conny,3,Mass Customer,3,6,5387.05,40.0,0.0,7.0,41.0,11.0
+1000,Paulie,3,Mass Customer,1,9,5383.48,44.0,0.0,9.0,45.0,11.0
+2139,Carolina,3,Affluent Customer,61,5,5380.68,87.0,1.0,7.0,41.0,7.0
+2260,Jarad,3,High Net Worth,18,6,5378.6,38.0,0.0,8.0,56.0,11.0
+2857,Alanna,3,Mass Customer,114,6,5373.63,9.0,1.0,6.0,66.0,17.0
+2737,Andras,3,Mass Customer,6,9,5371.57,28.0,1.0,8.0,25.0,3.0
+446,Marilee,3,Affluent Customer,53,8,5363.3,73.0,1.0,9.0,45.0,4.0
+1682,Gerladina,3,Affluent Customer,83,6,5354.43,93.0,1.0,12.0,63.0,6.0
+1615,Evvie,3,Mass Customer,56,6,5353.57,75.0,1.0,6.0,52.0,7.0
+1328,Stavro,3,Mass Customer,1,7,5351.58,19.0,1.0,8.0,42.0,6.0
+2001,Mada,3,Mass Customer,87,8,5347.87,21.0,1.0,4.0,46.0,3.0
+1302,Ericka,3,Affluent Customer,30,13,5336.73,29.0,1.0,7.0,25.0,2.0
+25,Geoff,3,Mass Customer,6,12,5333.66,72.0,1.0,3.0,46.0,21.0
+189,Umberto,3,Affluent Customer,4,5,5329.98,73.0,0.0,4.0,42.0,10.0
+3255,Sutherlan,3,High Net Worth,3,6,5322.56,47.0,0.0,10.0,46.0,10.65704063378482
+1570,Phil,3,Mass Customer,34,9,5321.3,70.0,0.0,12.0,27.0,17.0
+2652,Kelbee,3,Affluent Customer,24,5,5319.91,96.0,1.0,10.0,65.0,15.0
+230,Maegan,3,High Net Worth,37,11,5319.63,74.0,0.0,11.0,69.0,11.0
+2726,Bradford,3,Affluent Customer,28,10,5318.75,49.0,0.0,7.0,47.0,4.0
+3387,Shel,3,Affluent Customer,83,8,5318.69,19.0,1.0,9.0,47.0,15.0
+3184,Marlee,3,Affluent Customer,69,8,5310.3,2.0,1.0,10.0,47.0,7.0
+1003,Mariann,3,High Net Worth,48,9,5300.38,35.0,0.0,7.0,55.0,18.0
+2374,Dolf,3,Mass Customer,15,7,5300.04,6.0,0.0,9.0,30.0,9.0
+330,Port,3,High Net Worth,108,6,5296.8,78.0,1.0,9.0,64.0,7.0
+1133,Forrester,3,Affluent Customer,18,7,5295.09,88.0,0.0,4.0,55.0,6.0
+69,Heidi,3,Mass Customer,21,6,5294.75,16.0,0.0,7.0,54.0,6.0
+33,Ernst,3,Affluent Customer,39,7,5294.27,44.0,1.0,9.0,66.0,11.0
+909,Suzette,3,High Net Worth,190,5,5289.22,77.0,1.0,7.0,63.0,8.0
+298,Maurise,3,High Net Worth,9,10,5285.59,69.0,0.0,8.0,67.0,9.0
+2865,Lila,3,High Net Worth,1,7,5283.91,11.0,0.0,9.0,25.0,3.0
+2729,Meggi,3,Mass Customer,7,6,5280.35,76.0,1.0,5.0,23.0,1.0
+647,Stanislas,3,Mass Customer,43,9,5279.19,61.0,1.0,9.0,66.0,10.0
+2824,Lombard,3,Affluent Customer,123,6,5278.02,41.0,0.0,10.0,28.0,7.0
+374,Valdemar,3,Mass Customer,14,6,5271.75,81.0,1.0,10.0,31.0,8.0
+2109,Grazia,3,High Net Worth,3,8,5263.13,14.0,1.0,8.0,58.0,18.0
+1039,Nona,3,High Net Worth,53,7,5259.0,24.0,1.0,4.0,48.0,15.0
+2142,Marti,3,Affluent Customer,82,7,5258.12,61.0,0.0,3.0,44.0,7.0
+2144,Maureene,3,Mass Customer,68,8,5253.88,12.0,1.0,4.0,45.0,9.0
+887,Patrizius,3,High Net Worth,40,8,5247.44,55.0,0.0,4.0,25.0,1.0
+3295,Cleavland,3,High Net Worth,20,8,5246.61,14.0,1.0,4.0,59.0,9.0
+91,Dylan,3,Affluent Customer,10,8,5242.41,69.0,1.0,9.0,68.0,17.0
+2290,Myca,3,Mass Customer,73,6,5235.79,18.0,1.0,3.0,42.0,5.0
+1119,Lemmy,3,Mass Customer,99,7,5235.71,43.0,1.0,11.0,47.0,19.0
+2380,Merissa,3,Mass Customer,43,7,5231.29,44.0,1.0,10.0,67.0,15.0
+1750,Filbert,3,Mass Customer,56,6,5227.98,14.0,1.0,12.0,64.0,16.0
+2045,Hermina,3,High Net Worth,56,9,5224.69,15.0,0.0,11.0,39.0,15.0
+1494,Levon,3,Mass Customer,19,10,5221.26,46.0,1.0,5.0,37.0,7.0
+385,Kendall,3,High Net Worth,79,9,5220.52,69.0,0.0,9.0,56.0,9.0
+685,Booth,3,Mass Customer,103,6,5218.2,28.0,0.0,4.0,46.0,10.65704063378482
+2907,Erik,3,High Net Worth,75,7,5213.35,89.0,0.0,10.0,46.0,8.0
+2400,Lindsay,3,Mass Customer,20,8,5205.75,73.0,1.0,11.0,45.0,22.0
+2753,Bale,3,Mass Customer,68,11,5203.18,26.0,1.0,9.0,38.0,7.0
+1374,Cleveland,3,Mass Customer,40,8,5196.33,76.0,0.0,10.0,47.0,8.0
+343,Nicole,3,Affluent Customer,104,9,5193.56,76.0,0.0,11.0,66.0,13.0
+645,Randolf,3,High Net Worth,117,7,5192.72,50.0,0.0,10.0,52.0,11.0
+953,Jasmin,3,Mass Customer,12,9,5191.52,16.0,0.0,1.0,44.0,7.0
+2808,Preston,3,Mass Customer,7,5,5190.91,68.0,1.0,9.0,22.0,1.0
+1853,Agathe,3,Mass Customer,27,9,5184.76,67.0,1.0,6.0,36.0,17.0
+987,Lars,3,Affluent Customer,23,8,5180.26,89.0,1.0,9.0,49.0,11.0
+2635,Arty,3,Mass Customer,69,8,5178.56,45.0,0.0,8.0,64.0,14.0
+2629,Nomi,3,High Net Worth,45,6,5174.88,60.0,0.0,9.0,47.0,19.0
+1138,Elli,3,Mass Customer,125,6,5174.44,77.0,1.0,6.0,32.0,5.0
+1551,Joell,3,Affluent Customer,23,7,5171.89,37.0,0.0,12.0,48.0,17.0
+1345,Jeth,3,Mass Customer,44,6,5170.95,94.0,0.0,1.0,63.0,12.0
+3168,Johan,3,Affluent Customer,92,4,5170.51,89.0,0.0,7.0,47.0,22.0
+3003,Brita,3,Mass Customer,112,9,5168.14,72.0,1.0,8.0,60.0,4.0
+1178,Angelo,3,Mass Customer,45,8,5167.23,1.0,0.0,9.0,53.0,13.0
+139,Gar,3,Affluent Customer,27,9,5161.44,1.0,0.0,1.0,59.0,4.0
+22,Deeanne,3,Mass Customer,98,8,5159.84,79.0,0.0,7.5162744116174265,60.0,11.0
+1850,Dare,3,High Net Worth,45,7,5159.72,4.0,0.0,9.0,45.0,7.0
+2105,Terrance,3,High Net Worth,24,5,5155.91,29.0,1.0,7.0,52.0,6.0
+3166,Bronson,3,Mass Customer,48,7,5155.63,96.0,0.0,8.0,68.0,20.0
+2270,Augustus,3,Affluent Customer,130,5,5154.68,50.0,0.0,10.0,57.0,9.0
+1291,Warner,3,Mass Customer,17,7,5147.26,0.0,0.0,2.0,43.0,12.0
+2185,Gayle,3,Mass Customer,137,7,5144.36,40.0,0.0,7.0,60.0,19.0
+3467,Killy,3,Mass Customer,6,6,5135.0,31.0,0.0,6.0,43.0,21.0
+2023,Marco,3,High Net Worth,14,10,5132.78,15.0,0.0,7.0,52.0,10.0
+1243,Robbert,3,Mass Customer,71,10,5127.43,73.0,0.0,11.0,70.0,8.0
+57,Abba,3,Mass Customer,36,6,5117.96,87.0,1.0,6.0,35.0,13.0
+432,Amby,3,Affluent Customer,22,8,5110.17,83.0,1.0,10.0,33.0,10.0
+2433,Burty,3,High Net Worth,27,10,5108.66,38.0,1.0,9.0,47.0,8.0
+1917,Raquela,3,Affluent Customer,29,7,5107.25,7.0,1.0,4.0,50.0,8.0
+1954,Greg,3,Affluent Customer,101,9,5105.49,88.0,0.0,9.0,55.0,5.0
+1537,Andres,3,Mass Customer,27,9,5101.55,23.0,0.0,8.0,53.0,10.0
+1330,Gery,3,Affluent Customer,76,6,5101.12,20.0,0.0,6.0,38.0,19.0
+2202,Diannne,3,Affluent Customer,59,10,5090.61,46.0,1.0,11.0,46.0,8.0
+1726,Mariette,3,High Net Worth,10,8,5084.42,41.0,0.0,10.0,50.0,11.0
+1528,Ranee,3,High Net Worth,76,7,5083.41,78.0,0.0,10.0,39.0,3.0
+2761,Agathe,3,Mass Customer,8,9,5082.02,78.0,0.0,9.0,62.0,19.0
+815,Caryn,3,Mass Customer,28,6,5081.3,47.0,1.0,11.0,49.0,22.0
+1957,Gary,3,Affluent Customer,20,10,5079.91,1.0,0.0,10.0,46.0,4.0
+2308,Nancey,3,Mass Customer,14,9,5077.97,52.0,1.0,9.0,60.0,17.0
+2149,Lana,3,High Net Worth,12,9,5077.1,26.0,0.0,10.0,45.0,6.0
+1332,Garek,3,Mass Customer,32,8,5075.61,87.0,1.0,10.0,45.0,12.0
+1670,Gisella,3,Mass Customer,61,9,5073.96,30.0,0.0,11.0,45.0,19.0
+724,Heinrik,3,Mass Customer,24,8,5073.27,7.0,1.0,8.0,48.0,4.0
+765,Valeria,3,Affluent Customer,25,10,5070.62,50.0,0.0,1.0,39.0,16.0
+769,Cameron,3,Mass Customer,20,8,5070.24,65.0,0.0,8.0,61.0,12.0
+360,Atalanta,3,Mass Customer,9,5,5070.23,64.0,1.0,7.0,67.0,19.0
+1179,Kerry,3,High Net Worth,8,4,5068.44,56.0,1.0,8.0,35.0,13.0
+3283,Rowe,3,Mass Customer,1,7,5058.9,46.0,1.0,8.0,44.0,6.0
+2888,Hamel,3,High Net Worth,30,6,5055.73,37.0,1.0,7.0,61.0,16.0
+2294,Skipton,3,Mass Customer,74,7,5050.26,25.0,0.0,5.0,36.0,21.0
+3057,Mel,3,Mass Customer,29,7,5049.14,96.0,0.0,10.0,47.0,9.0
+1021,Elvis,3,High Net Worth,29,8,5048.26,16.0,0.0,8.0,46.0,7.0
+2850,Andie,3,Mass Customer,8,8,5043.07,74.0,1.0,9.0,51.0,5.0
+1779,Krishnah,3,Affluent Customer,130,6,5042.0,55.0,0.0,7.0,26.0,5.0
+3103,Shaylah,3,Mass Customer,60,8,5040.88,5.0,0.0,7.0,70.0,20.0
+1157,Saunder,3,Affluent Customer,86,7,5037.46,69.0,1.0,12.0,49.0,17.0
+1802,Lizzie,3,Mass Customer,14,8,5035.8,3.0,0.0,9.0,50.0,7.0
+3374,Joann,3,Mass Customer,2,4,5034.57,77.0,1.0,8.0,64.0,12.0
+147,Rea,3,Mass Customer,35,6,5034.16,32.0,1.0,11.0,49.0,10.0
+1272,Nettie,3,Affluent Customer,25,10,5029.13,2.0,0.0,5.0,38.0,17.0
+692,Goraud,3,Mass Customer,51,9,5027.49,42.0,0.0,9.0,35.0,7.0
+419,Chrissie,3,Affluent Customer,15,7,5027.37,34.0,0.0,8.0,42.0,17.0
+605,Bart,3,Mass Customer,3,8,5025.64,13.0,1.0,8.0,51.0,5.0
+1102,Stephana,3,Affluent Customer,22,8,5025.44,16.0,0.0,3.0,47.0,15.0
+392,Brandyn,3,Mass Customer,102,7,5025.31,38.0,0.0,8.0,45.0,13.0
+1792,Dunstan,3,Mass Customer,7,10,5020.67,1.0,0.0,9.0,35.0,15.0
+399,Nickie,3,Affluent Customer,50,6,5020.5,26.0,1.0,3.0,47.0,16.0
+1881,Gherardo,3,Affluent Customer,36,7,5018.98,61.0,1.0,8.0,65.0,12.0
+2986,Ettore,3,Mass Customer,29,9,5017.74,60.0,0.0,9.0,43.0,13.0
+1451,Courtney,3,Mass Customer,32,7,5017.33,32.0,1.0,9.0,46.0,16.0
+1232,Stillmann,3,Affluent Customer,5,9,5011.9,83.0,0.0,8.0,64.0,20.0
+1472,Demeter,3,Mass Customer,70,7,5011.4,3.0,0.0,9.0,59.0,17.0
+1477,Leo,3,Mass Customer,20,9,5007.94,42.0,1.0,3.0,46.0,10.65704063378482
+2057,Elianora,3,Affluent Customer,17,6,5006.98,99.0,1.0,8.0,64.0,15.0
+371,Pernell,3,Mass Customer,10,5,5004.52,7.0,0.0,4.0,69.0,7.0
+1443,Angela,3,Affluent Customer,45,10,5004.26,47.0,1.0,7.0,37.0,22.0
+312,Garek,3,Affluent Customer,14,6,5001.71,44.0,1.0,10.0,65.0,6.0
+3181,Ferd,3,High Net Worth,10,6,5001.0,39.0,0.0,2.0,47.0,6.0
+1224,Aundrea,3,Mass Customer,48,8,4988.31,9.0,0.0,6.0,46.0,16.0
+498,Emmalee,3,High Net Worth,8,7,4982.41,58.0,1.0,3.0,45.0,10.0
+75,Dollie,3,Mass Customer,61,8,4979.94,28.0,0.0,8.0,45.0,19.0
+1788,Anna-diana,3,High Net Worth,30,9,4979.39,79.0,1.0,5.0,59.0,10.0
+1825,Arv,3,Mass Customer,41,6,4977.77,82.0,1.0,5.0,56.0,17.0
+1748,Skell,3,Mass Customer,3,10,4973.95,83.0,1.0,8.0,67.0,10.0
+1571,Tadeas,3,Mass Customer,4,4,4968.78,19.0,1.0,11.0,43.0,22.0
+404,Sinclair,3,Affluent Customer,19,9,4965.7,92.0,1.0,4.0,27.0,4.0
+1698,Christabella,3,Affluent Customer,33,8,4965.68,58.0,1.0,9.0,52.0,18.0
+402,Berne,3,Affluent Customer,57,6,4965.43,9.0,0.0,1.0,46.0,22.0
+2360,Karleen,3,High Net Worth,28,6,4962.2,0.0,1.0,10.0,49.0,5.0
+1793,Hewett,3,Mass Customer,61,6,4960.36,19.0,1.0,7.0,34.0,2.0
+2020,Portia,3,Affluent Customer,44,7,4959.64,50.0,1.0,8.0,52.0,14.0
+2474,Chrysa,3,High Net Worth,65,7,4958.1,59.0,1.0,2.0,43.0,6.0
+2247,Gweneth,3,High Net Worth,30,7,4957.3,17.0,1.0,12.0,28.0,1.0
+1693,Ring,3,Affluent Customer,76,7,4956.61,79.0,0.0,9.0,58.0,4.0
+3499,Shelton,3,Mass Customer,52,7,4955.25,29.0,1.0,9.0,44.0,7.0
+2341,Caterina,3,Mass Customer,14,7,4952.23,41.0,1.0,9.0,46.0,10.65704063378482
+2877,Vaughan,3,Affluent Customer,42,9,4947.27,59.0,1.0,5.0,56.0,18.0
+3465,Hadria,3,High Net Worth,73,10,4946.67,71.0,1.0,12.0,45.0,7.0
+2053,Horatius,3,Affluent Customer,6,6,4941.18,7.0,1.0,7.0,45.0,11.0
+2155,Fayth,3,Mass Customer,20,12,4940.24,24.0,0.0,3.0,59.0,14.0
+1400,Rikki,3,Affluent Customer,57,7,4939.11,51.0,1.0,4.0,41.0,7.0
+1644,Gaby,3,Mass Customer,23,7,4938.15,57.0,0.0,9.0,53.0,10.0
+703,Ethelda,3,Mass Customer,2,5,4928.8,66.0,0.0,6.0,57.0,15.0
+283,Sari,3,Mass Customer,92,6,4926.57,34.0,0.0,6.0,32.0,2.0
+62,Sorcha,3,Mass Customer,6,6,4920.88,38.0,1.0,8.0,44.0,22.0
+3296,Leontyne,3,Affluent Customer,65,11,4920.72,78.0,1.0,11.0,49.0,17.0
+2620,Henderson,3,Mass Customer,31,8,4919.55,26.0,0.0,10.0,24.0,1.0
+877,Didi,3,Mass Customer,18,9,4918.87,92.0,1.0,8.0,35.0,3.0
+3126,Bondon,3,High Net Worth,41,8,4916.64,7.0,0.0,5.0,37.0,12.0
+3105,Bryn,3,Mass Customer,11,6,4916.08,88.0,0.0,7.0,58.0,12.0
+486,Prudi,3,Affluent Customer,92,5,4915.77,0.0,1.0,7.0,67.0,15.0
+2189,Thedric,3,High Net Worth,41,10,4914.08,43.0,0.0,8.0,25.0,4.0
+247,Kristal,3,High Net Worth,113,7,4913.16,62.0,1.0,4.0,40.0,13.0
+97,Arne,3,Mass Customer,103,8,4911.21,16.0,1.0,8.0,44.0,10.0
+1926,Stefano,3,High Net Worth,6,5,4911.09,72.0,1.0,5.0,66.0,10.0
+2740,Godiva,3,Affluent Customer,27,8,4905.53,61.0,1.0,7.0,60.0,12.0
+94,Wallache,3,Mass Customer,34,7,4902.21,33.0,0.0,7.0,49.0,21.0
+934,Marcellus,3,Mass Customer,1,8,4899.6,76.0,0.0,12.0,27.0,6.0
+2815,Emery,3,Mass Customer,28,9,4895.82,50.0,0.0,5.0,69.0,19.0
+2594,Sigismond,3,Mass Customer,92,6,4895.55,90.0,0.0,9.0,26.0,2.0
+3315,Ninnette,3,Mass Customer,2,7,4892.17,77.0,1.0,7.0,29.0,5.0
+1595,Kora,3,High Net Worth,78,7,4891.75,15.0,1.0,9.0,47.0,11.0
+790,Yvonne,3,Affluent Customer,15,8,4889.11,22.0,0.0,9.0,55.0,15.0
+1158,Butch,3,Mass Customer,3,7,4888.97,85.0,1.0,4.0,38.0,19.0
+2210,Kirby,3,High Net Worth,28,9,4888.71,16.0,0.0,5.0,37.0,5.0
+144,Jory,3,Mass Customer,7,8,4888.02,71.0,0.0,3.0,46.0,10.65704063378482
+3157,Hurlee,3,Mass Customer,11,8,4886.13,46.0,1.0,7.0,26.0,1.0
+1820,Yard,3,Affluent Customer,36,9,4883.79,12.0,0.0,10.0,27.0,5.0
+897,Pris,3,Mass Customer,99,7,4883.1,25.0,0.0,10.0,54.0,11.0
+1378,Ellie,3,Affluent Customer,13,6,4881.55,36.0,1.0,6.0,45.0,7.0
+2528,Cassie,3,Affluent Customer,26,7,4870.35,81.0,0.0,7.0,45.0,15.0
+893,Gibby,3,Mass Customer,76,7,4868.87,97.0,0.0,8.0,40.0,16.0
+1787,Tull,3,High Net Worth,1,6,4865.49,2.0,1.0,1.0,46.0,13.0
+2701,Ileana,3,Affluent Customer,53,9,4863.47,13.0,1.0,4.0,63.0,7.0
+1599,Ozzy,3,Affluent Customer,20,11,4855.5,65.0,0.0,11.0,23.0,1.0
+51,Fidelio,3,Mass Customer,56,8,4855.4,68.0,0.0,5.0,63.0,18.0
+760,Shamus,3,Mass Customer,27,9,4847.05,46.0,1.0,9.0,45.0,18.0
+2353,Lyn,3,Affluent Customer,82,10,4842.52,93.0,1.0,6.0,44.0,12.0
+739,Arnie,3,Mass Customer,2,10,4842.2,36.0,0.0,11.0,58.0,8.0
+1068,Frazer,3,Mass Customer,5,14,4841.71,5.0,1.0,8.0,28.0,3.0
+2885,Minnie,3,Mass Customer,95,9,4839.41,70.0,1.0,8.0,54.0,4.0
+1137,Jermayne,3,Mass Customer,6,9,4837.19,46.0,0.0,3.0,46.0,18.0
+1627,Vladimir,3,Affluent Customer,25,8,4834.08,44.0,0.0,9.0,61.0,16.0
+1905,Corabelle,3,Affluent Customer,11,9,4833.73,21.0,0.0,6.0,70.0,15.0
+171,Halli,3,Mass Customer,19,8,4833.14,62.0,0.0,11.0,52.0,10.0
+3381,Bruce,3,Mass Customer,196,5,4829.4,26.0,0.0,3.0,29.0,4.0
+2170,Dewitt,3,Affluent Customer,29,6,4828.54,27.0,0.0,12.0,60.0,6.0
+2364,Fielding,3,Mass Customer,44,5,4826.5,19.0,1.0,9.0,28.0,13.0
+34,Jephthah,3,Affluent Customer,103,8,4825.59,59.0,0.0,8.0,45.81220305076269,20.0
+1980,Kenneth,3,High Net Worth,74,8,4822.39,97.0,1.0,8.0,31.0,7.0
+3258,Hettie,3,Mass Customer,18,8,4821.9,77.0,1.0,9.0,44.0,18.0
+938,Corabelle,3,Mass Customer,62,9,4819.03,18.0,0.0,7.0,27.0,7.0
+1971,Mariel,3,Mass Customer,63,7,4812.99,49.0,1.0,5.0,25.0,4.0
+1806,Gil,3,Mass Customer,38,8,4810.5,95.0,0.0,1.0,46.0,10.65704063378482
+534,Madel,3,Mass Customer,7,8,4809.95,2.0,0.0,11.0,69.0,12.0
+3225,Durante,3,Mass Customer,9,7,4805.02,19.0,1.0,11.0,43.0,4.0
+996,Aura,3,Mass Customer,64,6,4803.1,67.0,1.0,10.0,46.0,10.65704063378482
+2385,Gaultiero,3,Mass Customer,32,8,4797.13,70.0,0.0,7.0,64.0,8.0
+875,Caryl,3,Mass Customer,64,6,4796.96,34.0,1.0,9.0,24.0,2.0
+1557,Efren,3,Mass Customer,76,7,4795.51,64.0,0.0,9.0,48.0,6.0
+2630,Jonathon,3,Mass Customer,63,10,4794.58,76.0,0.0,5.0,44.0,10.0
+2111,Ellis,3,Affluent Customer,7,9,4790.82,98.0,1.0,9.0,49.0,12.0
+1898,Katalin,3,Affluent Customer,61,6,4787.35,67.0,1.0,9.0,43.0,12.0
+3074,Tracie,3,Mass Customer,11,7,4781.58,31.0,1.0,9.0,54.0,12.0
+963,Valery,3,High Net Worth,61,12,4779.13,56.0,1.0,10.0,55.0,16.0
+3367,Melisse,3,Mass Customer,83,6,4779.07,75.0,1.0,2.0,22.0,1.0
+793,Kissie,3,High Net Worth,2,10,4778.33,97.0,1.0,10.0,34.0,9.0
+2587,Maren,3,Affluent Customer,65,9,4776.43,76.0,0.0,5.0,44.0,4.0
+833,Wadsworth,3,High Net Worth,26,8,4776.1,9.0,1.0,7.0,28.0,4.0
+2880,Ingra,3,Mass Customer,19,8,4772.56,43.0,0.0,9.0,56.0,7.0
+2292,Christie,3,Mass Customer,46,7,4768.85,17.0,1.0,9.0,25.0,2.0
+44,Neron,3,Affluent Customer,36,7,4768.28,63.0,1.0,2.0,42.0,17.0
+2182,Symon,3,High Net Worth,18,8,4766.82,47.0,1.0,7.0,56.0,16.0
+3039,Coralie,3,Affluent Customer,70,9,4762.49,52.0,0.0,8.0,55.0,18.0
+2683,Myrta,3,Affluent Customer,17,6,4760.68,81.0,1.0,8.0,58.0,6.0
+1308,Andrey,3,Affluent Customer,16,5,4757.96,34.0,1.0,7.0,47.0,18.0
+2727,Kim,3,High Net Worth,50,5,4757.21,88.0,1.0,6.0,35.0,2.0
+2771,Jamie,3,Affluent Customer,45,5,4754.2,6.0,1.0,4.0,54.0,10.0
+866,Stanislaus,3,Affluent Customer,99,5,4753.84,28.0,1.0,7.0,50.0,14.0
+1313,Hughie,3,Mass Customer,8,7,4753.51,59.0,0.0,4.0,37.0,22.0
+3361,Riva,3,Mass Customer,45,6,4752.7,68.0,1.0,9.0,55.0,9.0
+310,Myranda,3,Mass Customer,9,7,4744.19,0.0,1.0,9.0,38.0,18.0
+867,Lura,3,Mass Customer,294,6,4743.7,12.0,0.0,12.0,50.0,17.0
+3221,Brigid,3,High Net Worth,112,9,4743.61,59.0,1.0,8.0,64.0,11.0
+454,Eugenie,3,Affluent Customer,50,7,4738.75,58.0,1.0,10.0,46.0,10.65704063378482
+2455,Kathe,3,Mass Customer,76,8,4737.68,64.0,0.0,5.0,46.0,21.0
+2459,Jeanna,3,High Net Worth,54,11,4737.3,67.0,0.0,6.0,37.0,18.0
+1293,Vidovic,3,Mass Customer,240,5,4736.69,89.0,0.0,6.0,43.0,8.0
+2284,Ola,3,High Net Worth,35,7,4735.67,83.0,0.0,1.0,49.0,14.0
+2188,Zonnya,3,Mass Customer,71,6,4735.32,85.0,0.0,9.0,51.0,17.0
+3153,Hannis,3,High Net Worth,128,5,4732.48,87.0,0.0,9.0,49.0,15.0
+1678,Dale,3,High Net Worth,69,9,4732.32,20.0,1.0,12.0,46.0,13.0
+844,Tome,3,High Net Worth,32,9,4730.32,13.0,0.0,5.0,45.0,9.0
+2951,Duffy,3,High Net Worth,86,9,4729.73,13.0,0.0,8.0,46.0,12.0
+435,Jerome,3,Mass Customer,103,4,4727.75,5.0,0.0,12.0,23.0,1.0
+365,Romona,3,High Net Worth,51,7,4724.04,98.0,0.0,5.0,47.0,15.0
+2889,Ximenes,3,Mass Customer,106,5,4722.62,55.0,1.0,5.0,37.0,8.0
+516,Craggy,3,Mass Customer,20,10,4722.21,23.0,0.0,8.0,65.0,20.0
+2017,Ezri,3,Affluent Customer,13,6,4721.62,67.0,1.0,11.0,28.0,6.0
+2805,Laverna,3,High Net Worth,4,5,4721.49,0.0,0.0,7.0,31.0,4.0
+2345,Arden,3,Affluent Customer,1,5,4719.95,50.0,1.0,8.0,37.0,3.0
+2606,Addi,3,High Net Worth,6,10,4718.43,56.0,0.0,10.0,45.0,12.0
+1210,Shandie,3,Mass Customer,18,8,4716.72,81.0,0.0,9.0,46.0,10.65704063378482
+1339,Mariam,3,High Net Worth,103,5,4713.22,82.0,0.0,8.0,44.0,14.0
+1937,Renaud,3,Mass Customer,35,7,4712.24,69.0,0.0,3.0,49.0,19.0
+2377,Kristien,3,High Net Worth,8,5,4707.55,29.0,0.0,11.0,25.0,2.0
+738,Bunnie,3,Mass Customer,70,8,4706.86,51.0,1.0,5.0,38.0,9.0
+1086,Ezechiel,3,Mass Customer,14,9,4705.65,84.0,1.0,9.0,34.0,4.0
+2140,Hilario,3,High Net Worth,99,8,4700.15,59.0,0.0,1.0,47.0,21.0
+41,Basilius,3,Mass Customer,30,9,4698.89,64.0,0.0,9.0,47.0,16.0
+1030,Nariko,3,Mass Customer,40,8,4698.6,9.0,0.0,7.0,61.0,5.0
+2820,Tristam,3,Affluent Customer,59,7,4695.94,44.0,1.0,8.0,44.0,16.0
+1838,Jobina,3,Affluent Customer,50,5,4691.45,14.0,1.0,11.0,58.0,12.0
+1006,Norbert,3,Affluent Customer,38,8,4687.53,15.0,1.0,8.0,46.0,19.0
+1471,Berri,3,Mass Customer,6,5,4685.84,88.0,0.0,9.0,45.0,15.0
+235,Leona,3,Mass Customer,3,11,4685.82,30.0,0.0,8.0,46.0,15.0
+1880,Garrett,3,High Net Worth,68,5,4685.53,50.0,0.0,12.0,51.0,17.0
+3173,Angelo,3,Mass Customer,46,6,4681.85,55.0,1.0,2.0,22.0,1.0
+3371,Josey,3,Mass Customer,42,9,4677.69,56.0,0.0,4.0,46.0,17.0
+2368,Rowe,3,Mass Customer,75,6,4675.97,98.0,0.0,5.0,30.0,10.0
+1942,Abe,3,High Net Worth,17,8,4675.19,0.0,0.0,9.0,36.0,19.0
+2339,Damien,3,Affluent Customer,12,9,4669.9,3.0,1.0,10.0,64.0,16.0
+3415,Alberik,3,High Net Worth,62,6,4669.3,43.0,1.0,7.0,60.0,11.0
+1706,Slade,3,High Net Worth,3,8,4666.64,32.0,1.0,11.0,62.0,10.0
+3080,Christoforo,3,High Net Worth,5,9,4665.71,87.0,0.0,8.0,65.0,10.0
+2836,Matilda,3,Mass Customer,14,10,4664.4,80.0,0.0,9.0,60.0,16.0
+604,Mella,3,Affluent Customer,70,6,4661.96,72.0,0.0,8.0,25.0,3.0
+695,Kevan,3,High Net Worth,17,8,4659.0,36.0,0.0,8.0,45.0,11.0
+2603,Mercy,3,High Net Worth,15,7,4657.99,44.0,0.0,11.0,61.0,11.0
+3014,Terrijo,3,High Net Worth,20,9,4656.84,59.0,0.0,10.0,22.0,1.0
+2938,Richardo,3,Affluent Customer,126,5,4655.53,79.0,0.0,7.0,23.0,2.0
+2221,Tye,3,Affluent Customer,95,8,4651.26,80.0,0.0,5.0,28.0,7.0
+2097,Web,3,Mass Customer,39,6,4647.42,38.0,0.0,9.0,35.0,21.0
+396,Peria,3,High Net Worth,30,6,4647.13,98.0,1.0,11.0,56.0,16.0
+1492,Cordey,3,Mass Customer,14,7,4645.84,51.0,0.0,3.0,43.0,7.0
+2909,Jayme,3,High Net Worth,84,7,4644.23,31.0,0.0,9.0,44.0,6.0
+1852,Darby,3,Affluent Customer,98,5,4641.27,22.0,0.0,6.0,45.0,18.0
+1351,Lorettalorna,3,High Net Worth,18,6,4638.66,32.0,0.0,2.0,46.0,10.65704063378482
+2367,Lorne,3,Mass Customer,26,7,4636.8,40.0,1.0,10.0,66.0,16.0
+2518,Krystalle,3,Mass Customer,71,5,4636.72,53.0,1.0,10.0,69.0,19.0
+2595,Land,3,Affluent Customer,45,8,4631.38,56.0,1.0,6.0,46.0,8.0
+1115,Merola,3,High Net Worth,3,9,4631.23,33.0,1.0,10.0,53.0,17.0
+2891,Renae,3,High Net Worth,63,7,4629.95,5.0,1.0,11.0,36.0,12.0
+158,Hamlin,3,Affluent Customer,66,6,4627.35,99.0,0.0,6.0,39.0,5.0
+270,Auberta,3,Mass Customer,8,7,4625.21,38.0,1.0,10.0,52.0,17.0
+2697,Klarika,3,High Net Worth,34,7,4623.16,70.0,0.0,12.0,46.0,10.65704063378482
+2536,Aigneis,3,Mass Customer,8,6,4622.41,71.0,1.0,7.0,59.0,16.0
+2030,Xymenes,3,High Net Worth,240,4,4622.34,3.0,0.0,7.0,62.0,15.0
+700,Josias,3,Mass Customer,107,8,4618.11,67.0,0.0,3.0,33.0,4.0
+1694,Tonnie,3,Mass Customer,20,7,4611.39,11.0,1.0,1.0,64.0,19.0
+2853,Clarence,3,High Net Worth,82,8,4610.6,65.0,1.0,10.0,38.0,7.0
+3337,Brendan,3,Mass Customer,7,8,4608.0,58.0,1.0,4.0,47.0,16.0
+3223,Tiffi,3,Mass Customer,15,8,4605.4,44.0,1.0,9.0,46.0,10.65704063378482
+2007,Gail,3,Mass Customer,24,4,4601.81,8.0,1.0,8.0,53.0,15.0
+829,Byran,3,High Net Worth,13,6,4600.24,84.0,1.0,8.0,22.0,2.0
+2527,Arly,3,Affluent Customer,41,7,4600.01,60.0,1.0,2.0,43.0,16.0
+743,Pattin,3,Mass Customer,90,5,4599.29,89.0,1.0,10.0,42.0,13.0
+395,Penn,3,High Net Worth,31,7,4597.74,28.0,1.0,7.0,46.0,9.0
+627,Shanta,3,High Net Worth,59,5,4597.27,24.0,0.0,5.0,53.0,10.0
+2947,Standford,3,Mass Customer,15,6,4595.07,75.0,0.0,3.0,46.0,11.0
+490,Lida,3,Mass Customer,54,9,4593.01,44.0,0.0,11.0,31.0,6.0
+2340,Joachim,3,Mass Customer,6,9,4585.4,33.0,1.0,7.0,45.0,16.0
+2601,Morgana,3,Affluent Customer,37,8,4582.12,48.0,0.0,7.0,48.0,13.0
+712,Norine,3,Mass Customer,62,8,4581.46,22.0,0.0,9.0,62.0,14.0
+576,Bart,3,Mass Customer,8,6,4580.35,98.0,1.0,10.0,46.0,7.0
+1830,Nathan,3,High Net Worth,14,7,4578.9,98.0,0.0,8.0,38.0,12.0
+2099,Mikel,3,High Net Worth,64,7,4576.76,40.0,1.0,8.0,64.0,19.0
+1376,Pail,3,Mass Customer,90,6,4576.53,89.0,1.0,5.0,57.0,18.0
+2717,Frederic,3,Mass Customer,42,10,4576.02,31.0,0.0,5.0,42.0,13.0
+1110,Lazar,3,High Net Worth,18,6,4574.1,73.0,0.0,7.0,32.0,12.0
+1845,Pascal,3,Mass Customer,22,7,4572.89,34.0,0.0,12.0,45.0,6.0
+882,Esmaria,3,Mass Customer,113,5,4571.93,59.0,1.0,12.0,58.0,11.0
+1449,Ashly,3,High Net Worth,15,6,4565.33,38.0,0.0,3.0,56.0,4.0
+2319,David,3,High Net Worth,10,4,4564.9,63.0,0.0,9.0,38.0,18.0
+1397,Dimitri,3,Mass Customer,138,6,4563.95,29.0,1.0,5.0,44.0,14.0
+1024,Rhodia,3,High Net Worth,35,8,4560.56,17.0,1.0,9.0,31.0,2.0
+2812,Molli,3,High Net Worth,88,6,4558.55,16.0,1.0,10.0,22.0,1.0
+2572,Sheila,3,Mass Customer,80,8,4558.42,30.0,0.0,10.0,42.0,13.0
+99,Reggie,3,Mass Customer,3,9,4557.65,97.0,0.0,9.0,25.0,3.0
+1459,Haydon,3,Mass Customer,99,4,4557.6,89.0,0.0,8.0,25.0,4.0
+1447,Renaldo,3,Mass Customer,98,7,4553.86,29.0,0.0,1.0,27.0,4.0
+40,Tomasine,3,Affluent Customer,15,6,4552.1,91.0,0.0,8.0,42.0,14.0
+135,Rosalia,3,Mass Customer,116,7,4549.5,18.0,0.0,6.0,48.0,3.0
+66,Anselm,3,High Net Worth,44,5,4549.2,46.0,0.0,10.0,21.0,1.0
+1252,Les,3,Mass Customer,10,7,4548.31,46.0,1.0,4.0,58.0,14.0
+1916,Redd,3,High Net Worth,54,7,4545.8,71.0,1.0,4.0,28.0,7.0
+2120,Clare,3,Mass Customer,3,8,4543.18,80.0,0.0,8.0,26.0,1.0
+1979,Ephrem,3,Mass Customer,34,5,4541.84,98.0,1.0,2.0,63.0,11.0
+1218,Marlie,3,Mass Customer,51,6,4540.57,12.0,1.0,7.0,41.0,7.0
+2557,Lian,3,Mass Customer,31,3,4540.47,37.0,0.0,8.0,45.0,19.0
+3169,Maxim,3,Mass Customer,1,7,4539.95,96.0,1.0,7.0,59.0,19.0
+295,Lena,3,Mass Customer,35,7,4539.9,64.0,1.0,6.0,58.0,18.0
+381,Leesa,3,Affluent Customer,3,8,4534.24,99.0,0.0,12.0,26.0,1.0
+820,Cecilia,3,High Net Worth,4,10,4534.03,12.0,0.0,12.0,46.0,16.0
+2655,York,3,Mass Customer,158,6,4527.94,56.0,0.0,3.0,57.0,15.0
+1307,Emlyn,3,High Net Worth,91,9,4526.73,73.0,1.0,6.0,53.0,10.0
+424,Dennie,3,High Net Worth,75,7,4525.19,77.0,0.0,11.0,45.0,9.0
+2413,Abbey,3,High Net Worth,59,7,4523.23,27.0,1.0,8.0,80.0,17.0
+16,Harlin,3,Mass Customer,100,5,4521.84,38.0,1.0,4.0,46.0,18.0
+1576,Reube,3,Mass Customer,38,7,4521.35,77.0,0.0,9.0,38.0,20.0
+2861,Cecelia,3,Mass Customer,74,8,4518.27,4.0,1.0,9.0,48.0,4.0
+1818,Katha,3,Mass Customer,25,7,4516.55,64.0,1.0,8.0,56.0,11.0
+1152,Humfrid,3,Mass Customer,25,8,4516.14,47.0,1.0,10.0,25.0,3.0
+1837,Tirrell,3,Mass Customer,36,7,4515.25,9.0,1.0,8.0,49.0,19.0
+1951,Rockie,3,Mass Customer,119,8,4514.84,93.0,1.0,6.0,23.0,2.0
+1181,Brita,3,Mass Customer,45,10,4513.06,2.0,0.0,8.0,45.0,8.0
+2847,Noreen,3,Mass Customer,45,7,4509.11,50.0,0.0,9.0,47.0,12.0
+1860,Holly-anne,3,Mass Customer,12,6,4503.35,4.0,1.0,6.0,46.0,17.0
+3007,Tudor,3,Mass Customer,4,7,4500.3,38.0,0.0,10.0,50.0,16.0
+864,Regen,3,High Net Worth,47,6,4499.38,6.0,1.0,8.0,53.0,4.0
+1095,Emelda,3,Mass Customer,15,4,4498.34,2.0,0.0,9.0,65.0,6.0
+1446,Gabriello,3,Mass Customer,11,7,4495.52,51.0,0.0,2.0,36.0,17.0
+3451,Ruprecht,3,High Net Worth,16,9,4489.09,88.0,0.0,5.0,53.0,10.0
+1646,Emmye,3,Mass Customer,27,7,4487.52,39.0,1.0,12.0,29.0,1.0
+1049,Fraser,3,Mass Customer,33,10,4486.32,35.0,0.0,8.0,27.0,2.0
+737,Sisely,3,Mass Customer,55,7,4480.09,75.0,0.0,2.0,40.0,16.0
+2283,Gaspar,3,High Net Worth,31,7,4474.63,44.0,0.0,2.0,69.0,16.0
+906,Cammy,3,High Net Worth,17,9,4473.87,73.0,1.0,9.0,24.0,3.0
+2268,Wilhelmina,3,Mass Customer,36,8,4473.32,66.0,0.0,8.0,58.0,19.0
+325,Anthia,3,Affluent Customer,134,6,4465.08,98.0,1.0,8.0,52.0,17.0
+3389,Margo,3,Affluent Customer,55,6,4462.32,27.0,0.0,9.0,51.0,19.0
+2311,Addi,3,Mass Customer,67,5,4460.12,49.0,0.0,10.0,34.0,16.0
+919,Grove,3,Mass Customer,81,9,4458.89,48.0,1.0,10.0,36.0,13.0
+2033,Mar,3,High Net Worth,12,7,4458.72,36.0,0.0,10.0,52.0,10.0
+770,Zara,3,High Net Worth,50,6,4457.48,10.0,1.0,10.0,39.0,13.0
+1848,Dev,3,Mass Customer,43,6,4456.95,22.0,0.0,3.0,46.0,9.0
+2449,Oates,3,Affluent Customer,77,6,4455.63,54.0,0.0,4.0,41.0,8.0
+357,Betta,3,Affluent Customer,16,8,4455.49,21.0,0.0,9.0,54.0,18.0
+1062,Tish,3,Mass Customer,3,6,4450.85,32.0,0.0,11.0,48.0,14.0
+3267,Gerri,3,High Net Worth,89,6,4449.68,20.0,1.0,4.0,36.0,9.0
+546,Jorie,3,Mass Customer,38,5,4449.53,80.0,1.0,2.0,42.0,12.0
+1743,Pall,3,Affluent Customer,87,7,4448.07,80.0,1.0,3.0,42.0,8.0
+3358,Fairlie,3,Affluent Customer,38,6,4447.21,30.0,1.0,9.0,50.0,11.0
+634,Melonie,3,Mass Customer,18,8,4445.37,35.0,0.0,3.0,45.0,15.0
+65,Yale,3,Affluent Customer,137,6,4441.61,21.0,1.0,10.0,47.0,15.0
+1765,Sibella,3,High Net Worth,47,6,4439.48,48.0,0.0,7.0,56.0,10.0
+2288,Cirillo,3,High Net Worth,30,6,4438.47,63.0,0.0,1.0,59.0,8.0
+1834,Otes,3,High Net Worth,127,4,4434.93,84.0,1.0,4.0,46.0,11.0
+109,Cody,3,Affluent Customer,9,10,4430.66,16.0,1.0,11.0,44.0,4.0
+3288,Fair,3,High Net Worth,33,6,4430.64,47.0,0.0,9.0,46.0,10.65704063378482
+1639,Marna,3,Mass Customer,31,6,4428.51,9.0,1.0,10.0,60.0,12.0
+772,Lorianna,3,Mass Customer,3,6,4423.8,12.0,0.0,7.0,24.0,4.0
+968,Wayne,3,High Net Worth,36,7,4422.26,96.0,1.0,6.0,68.0,16.0
+2570,Hirsch,3,Mass Customer,94,8,4420.45,13.0,1.0,3.0,46.0,18.0
+636,Alejandrina,3,Mass Customer,20,7,4418.9,42.0,0.0,9.0,52.0,19.0
+3462,Jehanna,3,High Net Worth,22,5,4416.71,96.0,0.0,1.0,66.0,17.0
+223,Ossie,3,Affluent Customer,53,7,4410.07,13.0,1.0,7.0,39.0,14.0
+1933,Ephraim,3,Affluent Customer,42,9,4404.77,72.0,0.0,11.0,43.0,18.0
+331,Ford,3,Mass Customer,83,6,4404.67,87.0,1.0,8.0,25.0,3.0
+352,Orrin,3,Mass Customer,26,6,4404.4,12.0,0.0,6.0,44.0,4.0
+3477,Jaquelin,3,Affluent Customer,65,8,4401.92,90.0,1.0,7.0,27.0,7.0
+509,Tobe,3,Affluent Customer,90,6,4389.73,64.0,1.0,6.0,44.0,21.0
+2427,Myrta,3,High Net Worth,4,6,4388.13,20.0,1.0,8.0,25.0,2.0
+3383,Dane,3,Affluent Customer,30,6,4387.16,47.0,1.0,8.0,41.0,10.0
+2648,Saunder,3,Affluent Customer,36,5,4384.85,60.0,0.0,5.0,25.0,1.0
+2940,Wilek,3,Affluent Customer,95,7,4384.62,83.0,1.0,3.0,53.0,14.0
+2465,Paloma,3,Mass Customer,12,9,4384.09,31.0,1.0,8.0,39.0,2.0
+1870,Alikee,3,Affluent Customer,39,7,4382.2,24.0,0.0,9.0,50.0,9.0
+23,Olav,3,High Net Worth,11,6,4376.15,43.0,1.0,7.5162744116174265,28.0,1.0
+668,Ebony,3,Mass Customer,7,7,4375.98,61.0,0.0,9.0,57.0,7.0
+2627,Hildegaard,3,Mass Customer,34,6,4375.27,7.0,1.0,7.0,52.0,12.0
+925,Nicko,3,Affluent Customer,13,9,4371.16,42.0,0.0,4.0,45.0,16.0
+201,Salem,3,Mass Customer,29,8,4369.02,45.0,1.0,9.0,57.0,11.0
+1770,Chrysler,3,Mass Customer,14,7,4366.04,63.0,1.0,10.0,28.0,7.0
+1005,Kalila,3,High Net Worth,160,5,4365.25,94.0,1.0,9.0,56.0,8.0
+3261,Benedicto,3,Mass Customer,39,6,4363.99,6.0,1.0,8.0,48.0,5.0
+1303,Nollie,3,Mass Customer,11,6,4352.37,64.0,0.0,1.0,51.0,15.0
+2355,Shaughn,3,Mass Customer,71,5,4351.82,87.0,1.0,8.0,29.0,4.0
+2605,Had,3,High Net Worth,116,5,4346.57,50.0,1.0,1.0,58.0,18.0
+3170,Bethanne,3,Mass Customer,45,6,4344.71,67.0,0.0,8.0,55.0,11.0
+3178,Gan,3,Mass Customer,30,5,4339.76,21.0,1.0,7.0,52.0,9.0
+13,Gabriele,3,High Net Worth,28,7,4337.38,38.0,1.0,6.0,68.0,8.0
+1379,Lou,3,Mass Customer,29,5,4337.31,63.0,1.0,9.0,34.0,7.0
+47,Matthew,3,Affluent Customer,36,7,4332.19,51.0,0.0,4.0,31.0,2.0
+1932,Sybila,3,Affluent Customer,90,8,4328.47,98.0,1.0,7.0,46.0,3.0
+339,Nanny,3,Mass Customer,59,5,4327.24,56.0,0.0,8.0,43.0,12.0
+1641,Vasily,3,Mass Customer,64,9,4326.2,29.0,0.0,4.0,51.0,14.0
+3447,Linell,3,High Net Worth,84,11,4324.39,43.0,0.0,8.0,45.0,17.0
+2096,Torrie,3,High Net Worth,133,5,4320.42,74.0,1.0,8.0,54.0,12.0
+1594,Rolando,3,Mass Customer,1,6,4320.3,62.0,0.0,10.0,41.0,7.0
+599,Ernestus,3,Mass Customer,116,5,4319.14,48.0,1.0,8.0,46.0,10.65704063378482
+1169,Kessiah,3,Mass Customer,63,7,4318.2,33.0,1.0,10.0,56.0,13.0
+1184,Auberta,3,Mass Customer,6,6,4314.89,89.0,0.0,9.0,55.0,13.0
+3307,Portia,3,High Net Worth,17,5,4311.99,96.0,0.0,2.0,45.0,14.0
+2955,Stuart,3,High Net Worth,20,8,4306.13,74.0,0.0,9.0,33.0,13.0
+3220,Hunt,3,Affluent Customer,41,8,4304.22,53.0,0.0,10.0,51.0,11.0
+220,Jeniffer,3,High Net Worth,16,6,4304.11,79.0,0.0,8.0,69.0,9.0
+2543,Horacio,3,Affluent Customer,23,4,4303.86,41.0,0.0,10.0,24.0,2.0
+3478,Hartwell,3,Mass Customer,30,6,4297.85,54.0,0.0,1.0,37.0,17.0
+2552,Allard,3,Affluent Customer,36,6,4292.35,1.0,1.0,9.0,50.0,17.0
+1676,Ozzy,3,Mass Customer,88,5,4291.11,63.0,0.0,8.0,48.0,13.0
+3262,Maynord,3,Mass Customer,2,10,4290.81,65.0,0.0,8.0,64.0,12.0
+507,Gwen,3,Mass Customer,37,7,4290.77,98.0,0.0,8.0,52.0,7.0
+3375,Thorsten,3,High Net Worth,13,8,4285.94,37.0,1.0,10.0,30.0,6.0
+849,Sylvan,3,Mass Customer,28,6,4284.21,72.0,0.0,7.0,54.0,10.0
+2561,Elga,3,High Net Worth,2,4,4283.02,44.0,1.0,1.0,60.0,15.0
+2014,Sandye,3,Mass Customer,55,7,4281.32,49.0,1.0,10.0,33.0,8.0
+2152,Junina,3,Mass Customer,2,9,4281.08,40.0,1.0,10.0,55.0,19.0
+3186,Rora,3,Mass Customer,20,5,4279.33,22.0,1.0,9.0,26.0,2.0
+640,Galvin,3,High Net Worth,11,8,4278.6,12.0,1.0,9.0,48.0,10.0
+377,Levy,3,Mass Customer,7,12,4276.97,65.0,0.0,5.0,24.0,1.0
+2599,Pauly,3,Mass Customer,54,7,4275.0,9.0,0.0,9.0,69.0,5.0
+2297,Pauletta,3,Affluent Customer,38,5,4274.88,16.0,1.0,10.0,51.0,19.0
+1483,Beth,3,Mass Customer,30,8,4273.54,55.0,1.0,10.0,51.0,14.0
+986,Barnard,3,Mass Customer,76,8,4272.97,3.0,1.0,3.0,29.0,8.0
+1249,Tabb,3,Mass Customer,107,5,4269.85,11.0,0.0,2.0,56.0,16.0
+1411,Katrina,3,Mass Customer,36,6,4268.32,24.0,1.0,7.0,29.0,5.0
+2154,Bird,3,High Net Worth,39,6,4268.17,86.0,0.0,9.0,43.0,6.0
+1101,Haily,3,Mass Customer,114,5,4267.42,76.0,0.0,11.0,54.0,15.0
+1505,Cristian,3,Mass Customer,19,5,4263.17,90.0,0.0,12.0,30.0,3.0
+865,Germain,3,Mass Customer,122,7,4261.0,73.0,0.0,5.0,58.0,19.0
+1516,Ham,3,Affluent Customer,38,5,4256.32,6.0,0.0,10.0,56.0,19.0
+3421,Ronalda,3,Affluent Customer,29,9,4255.89,60.0,1.0,10.0,60.0,18.0
+61,Kacey,3,High Net Worth,48,6,4254.24,47.0,0.0,7.0,63.0,13.0
+2130,Evangelina,3,High Net Worth,2,8,4253.77,95.0,1.0,2.0,33.0,16.0
+3016,Forster,3,High Net Worth,1,5,4253.5,25.0,0.0,10.0,38.0,11.0
+3268,Estelle,3,Mass Customer,133,6,4250.46,93.0,0.0,5.0,37.0,20.0
+49,Nolly,3,Affluent Customer,37,5,4248.68,63.0,0.0,9.0,29.0,1.0
+794,Scott,3,Affluent Customer,23,7,4248.67,99.0,1.0,3.0,68.0,16.0
+2640,Curran,3,Affluent Customer,68,11,4246.56,75.0,0.0,10.0,45.0,12.0
+1643,Manda,3,Mass Customer,39,8,4244.32,13.0,0.0,10.0,62.0,19.0
+1817,Jozef,3,High Net Worth,32,11,4244.1,32.0,0.0,6.0,48.0,19.0
+577,Nadean,3,Mass Customer,3,11,4242.34,41.0,1.0,8.0,67.0,19.0
+3264,Garret,3,Mass Customer,24,8,4240.24,88.0,1.0,11.0,45.0,17.0
+2602,Jessamine,3,Mass Customer,72,8,4240.08,46.0,0.0,12.0,46.0,3.0
+1964,Cara,3,Affluent Customer,103,6,4239.32,60.0,1.0,7.0,59.0,9.0
+3304,Tymothy,3,Mass Customer,79,10,4236.21,43.0,0.0,8.0,42.0,12.0
+1123,Dominick,3,Mass Customer,11,5,4235.8,50.0,0.0,7.0,61.0,13.0
+3461,Nigel,3,Affluent Customer,137,7,4233.2,28.0,1.0,9.0,60.0,17.0
+2793,Mead,3,Affluent Customer,35,8,4232.85,77.0,1.0,8.0,52.0,14.0
+21,Mile,3,Affluent Customer,7,5,4229.41,74.0,1.0,7.0,43.0,16.0
+788,Gregg,3,Mass Customer,40,7,4228.66,62.0,0.0,9.0,59.0,11.0
+719,Pattin,3,Mass Customer,12,8,4227.84,2.0,0.0,1.0,69.0,14.0
+548,Georgie,3,High Net Worth,11,7,4223.29,84.0,1.0,7.0,46.0,10.65704063378482
+3382,Burk,3,High Net Worth,20,10,4222.77,90.0,0.0,10.0,45.0,10.0
+648,Gardiner,3,Mass Customer,58,7,4222.63,86.0,1.0,7.0,45.0,9.0
+513,Kienan,3,Mass Customer,15,5,4222.14,30.0,0.0,12.0,46.0,10.65704063378482
+119,Willey,3,High Net Worth,31,4,4217.24,9.0,1.0,7.0,41.0,9.0
+3298,Christine,3,Affluent Customer,5,5,4214.38,1.0,1.0,7.0,46.0,10.65704063378482
+2213,Jesse,3,Affluent Customer,16,5,4212.47,70.0,1.0,9.0,27.0,6.0
+989,Caralie,3,Mass Customer,26,5,4207.5,43.0,0.0,4.0,41.0,17.0
+579,Cathlene,3,Mass Customer,53,9,4204.6,89.0,0.0,10.0,49.0,12.0
+2121,Clarita,3,Mass Customer,90,9,4204.3,35.0,1.0,8.0,34.0,22.0
+166,Elston,3,Affluent Customer,64,8,4197.44,54.0,0.0,4.0,68.0,6.0
+2257,Siward,3,Mass Customer,65,5,4193.32,27.0,0.0,11.0,46.0,15.0
+1091,Keith,3,Mass Customer,5,10,4183.81,19.0,0.0,7.0,43.0,15.0
+2472,Mathias,3,High Net Worth,86,6,4181.0,99.0,1.0,7.0,34.0,16.0
+3360,Joelie,3,Affluent Customer,58,8,4179.51,77.0,0.0,10.0,60.0,5.0
+3120,Lauree,3,Mass Customer,21,7,4179.11,89.0,1.0,5.0,44.0,10.0
+2361,Jeannette,3,High Net Worth,23,7,4178.45,55.0,1.0,7.0,68.0,20.0
+2769,Trevor,3,Affluent Customer,47,6,4177.84,31.0,1.0,11.0,45.0,15.0
+1381,Ellary,3,Affluent Customer,114,5,4177.61,79.0,1.0,8.0,38.0,15.0
+469,Levi,3,High Net Worth,102,10,4177.21,91.0,1.0,12.0,27.0,3.0
+528,Gayel,3,Mass Customer,135,7,4175.15,10.0,0.0,10.0,44.0,4.0
+1147,Tate,3,High Net Worth,166,6,4173.67,71.0,1.0,9.0,55.0,9.0
+2266,Jeth,3,High Net Worth,30,10,4169.83,74.0,0.0,6.0,25.0,1.0
+912,Vince,3,Mass Customer,41,7,4164.21,37.0,1.0,10.0,55.0,19.0
+2049,Jud,3,High Net Worth,66,6,4162.97,21.0,0.0,8.0,61.0,5.0
+2029,Charlie,3,Mass Customer,2,9,4156.31,10.0,0.0,8.0,31.0,7.0
+1586,Madelena,3,High Net Worth,17,6,4154.02,47.0,0.0,11.0,37.0,15.0
+2859,Brandais,3,High Net Worth,11,8,4153.82,98.0,0.0,7.0,29.0,5.0
+736,Sansone,3,High Net Worth,12,6,4151.86,41.0,0.0,5.0,49.0,8.0
+1194,Audry,3,Affluent Customer,29,8,4148.57,69.0,0.0,4.0,31.0,3.0
+3113,Wenonah,3,Mass Customer,110,8,4144.86,52.0,1.0,7.0,53.0,18.0
+920,Stefano,3,Mass Customer,91,6,4144.19,89.0,1.0,10.0,47.0,19.0
+2195,Nevsa,3,Affluent Customer,3,6,4144.05,94.0,1.0,10.0,36.0,13.0
+2696,Isabelle,3,Mass Customer,152,4,4142.87,42.0,1.0,8.0,46.0,10.65704063378482
+2656,Halli,3,Mass Customer,139,7,4142.75,80.0,1.0,10.0,64.0,10.0
+275,Dud,3,High Net Worth,133,7,4141.68,7.0,0.0,4.0,68.0,13.0
+1183,Joe,3,Affluent Customer,154,5,4140.91,50.0,0.0,6.0,65.0,6.0
+824,Fleurette,3,Affluent Customer,10,4,4137.78,97.0,1.0,3.0,46.0,12.0
+2072,Margie,3,Mass Customer,9,13,4136.84,30.0,1.0,9.0,63.0,9.0
+2623,Zackariah,3,Mass Customer,11,5,4136.08,42.0,1.0,7.0,41.0,15.0
+2116,Wyndham,3,Affluent Customer,106,4,4128.63,81.0,1.0,9.0,44.0,9.0
+3017,Jason,3,Affluent Customer,58,6,4124.12,88.0,0.0,9.0,68.0,7.0
+2304,Shelia,3,Mass Customer,4,7,4121.78,65.0,1.0,8.0,66.0,11.0
+3208,Jeanne,3,High Net Worth,54,8,4121.17,53.0,0.0,2.0,56.0,15.0
+2843,Lorain,3,Affluent Customer,21,6,4117.49,42.0,1.0,8.0,55.0,5.0
+2712,Carissa,3,High Net Worth,17,6,4116.13,0.0,1.0,7.0,36.0,11.0
+1637,Timothee,3,High Net Worth,144,8,4115.36,78.0,0.0,9.0,54.0,6.0
+2851,Ulberto,3,Affluent Customer,10,8,4113.78,36.0,1.0,8.0,47.0,16.0
+1298,Guglielmo,3,Mass Customer,142,5,4113.36,35.0,0.0,5.0,49.0,16.0
+1358,Gerome,3,High Net Worth,4,8,4113.04,8.0,0.0,3.0,29.0,6.0
+2335,Payton,3,Mass Customer,12,7,4112.98,42.0,0.0,9.0,46.0,10.65704063378482
+177,Ondrea,3,High Net Worth,38,12,4108.6,25.0,0.0,5.0,34.0,4.0
+2083,Karee,3,Mass Customer,16,9,4106.38,5.0,0.0,3.0,43.0,4.0
+1227,Carlina,3,Affluent Customer,62,12,4101.86,63.0,1.0,7.0,34.0,12.0
+2632,Krishna,3,Mass Customer,8,4,4100.59,18.0,0.0,9.0,58.0,16.0
+1903,Tucky,3,High Net Worth,17,4,4098.86,8.0,1.0,7.0,49.0,4.0
+1801,Bendix,3,Affluent Customer,66,8,4098.59,48.0,0.0,7.0,46.0,21.0
+54,Loralyn,3,Mass Customer,68,7,4098.21,2.0,1.0,8.0,57.0,18.0
+407,Chryste,3,High Net Worth,10,9,4096.06,82.0,1.0,8.0,44.0,15.0
+211,Beitris,3,Mass Customer,40,9,4090.05,6.0,1.0,10.0,49.0,5.0
+495,Lucius,3,Mass Customer,129,6,4087.04,91.0,1.0,9.0,64.0,6.0
+308,Iver,3,High Net Worth,26,6,4086.21,2.0,0.0,5.0,40.0,4.0
+1844,Amaleta,3,Mass Customer,42,7,4085.48,71.0,0.0,4.0,48.0,12.0
+1812,Daffi,3,Affluent Customer,23,10,4084.28,20.0,0.0,9.0,64.0,14.0
+3202,Garry,3,Mass Customer,12,8,4083.36,74.0,1.0,9.0,29.0,2.0
+2529,Ben,3,High Net Worth,99,7,4083.33,81.0,1.0,7.0,69.0,10.0
+3370,Brant,3,High Net Worth,43,7,4078.82,8.0,1.0,12.0,69.0,5.0
+1849,Jess,3,Mass Customer,137,6,4077.26,6.0,1.0,8.0,65.0,5.0
+3413,Zulema,3,Mass Customer,26,4,4076.18,93.0,0.0,10.0,26.0,3.0
+2281,Valaria,3,High Net Worth,39,7,4075.38,56.0,1.0,1.0,34.0,14.0
+1200,Hedda,3,High Net Worth,80,9,4075.17,38.0,0.0,3.0,49.0,18.0
+3394,Barde,3,Mass Customer,20,5,4073.2,39.0,0.0,10.0,49.0,22.0
+1567,Florri,3,Mass Customer,25,7,4071.82,18.0,0.0,8.0,51.0,16.0
+886,Dawna,3,Mass Customer,2,7,4067.65,53.0,0.0,10.0,49.0,11.0
+3145,Gar,3,High Net Worth,69,6,4067.64,17.0,1.0,7.0,45.0,7.0
+918,Mahmud,3,High Net Worth,17,5,4066.24,73.0,0.0,4.0,48.0,13.0
+180,Trisha,3,Affluent Customer,12,7,4065.35,16.0,0.0,8.0,52.0,14.0
+1946,Brannon,3,Mass Customer,89,13,4063.82,37.0,0.0,9.0,64.0,8.0
+468,Valeria,3,High Net Worth,95,6,4063.59,11.0,1.0,9.0,49.0,8.0
+1876,Borden,3,Affluent Customer,139,5,4057.63,16.0,0.0,10.0,46.0,21.0
+1882,Justin,3,Affluent Customer,129,6,4054.85,86.0,0.0,9.0,59.0,10.0
+2728,Imojean,3,High Net Worth,8,8,4054.59,55.0,0.0,11.0,64.0,19.0
+311,Jaimie,3,High Net Worth,62,6,4054.48,86.0,0.0,10.0,66.0,12.0
+124,Kath,3,High Net Worth,3,7,4054.25,27.0,1.0,8.0,28.0,5.0
+1116,Tori,3,Mass Customer,8,3,4053.92,59.0,1.0,9.0,49.0,16.0
+1074,Griswold,3,High Net Worth,17,8,4053.68,43.0,1.0,3.0,49.0,18.0
+608,Alisun,3,High Net Worth,86,8,4050.11,55.0,1.0,6.0,43.0,12.0
+3373,Inna,3,Mass Customer,45,5,4048.46,19.0,0.0,10.0,32.0,5.0
+2005,Marina,3,High Net Worth,6,6,4047.83,41.0,0.0,10.0,45.0,17.0
+2638,Moritz,3,Mass Customer,84,9,4047.25,1.0,1.0,11.0,46.0,15.0
+1638,Zachery,3,Mass Customer,12,4,4046.88,55.0,1.0,4.0,31.0,10.0
+1182,Carolann,3,Mass Customer,6,7,4046.13,84.0,1.0,3.0,48.0,7.0
+1891,Neville,3,Mass Customer,82,7,4045.2,6.0,1.0,8.0,33.0,19.0
+499,Dalli,3,Affluent Customer,56,11,4043.58,39.0,0.0,7.0,62.0,19.0
+2153,Jimmy,3,Mass Customer,77,7,4042.69,22.0,0.0,5.0,37.0,10.0
+1609,Reginald,3,Mass Customer,62,5,4041.6,64.0,1.0,11.0,26.0,3.0
+704,Lindsay,3,Mass Customer,11,10,4034.46,49.0,0.0,11.0,24.0,4.0
+261,Marve,3,Mass Customer,51,9,4033.15,74.0,0.0,1.0,46.0,8.0
+3253,Bernadine,3,High Net Worth,6,3,4031.65,42.0,1.0,8.0,33.0,7.0
+1602,Shamus,3,Mass Customer,8,5,4026.12,68.0,0.0,9.0,44.0,15.0
+2886,Lulu,3,Mass Customer,40,8,4022.79,39.0,0.0,11.0,62.0,14.0
+2310,Jed,3,High Net Worth,16,6,4022.41,12.0,1.0,12.0,53.0,11.0
+3115,Rip,3,Mass Customer,196,5,4020.91,40.0,0.0,7.0,42.0,8.0
+250,Kristofer,3,Mass Customer,32,7,4019.05,53.0,1.0,10.0,35.0,13.0
+2597,Carita,3,High Net Worth,6,6,4017.66,58.0,1.0,10.0,43.0,11.0
+971,Sarge,3,High Net Worth,49,5,4015.78,11.0,0.0,7.0,35.0,22.0
+2892,Paulie,3,Affluent Customer,13,5,4015.02,59.0,1.0,7.0,58.0,7.0
+827,Phillis,3,Affluent Customer,50,8,4014.42,90.0,0.0,11.0,27.0,5.0
+1322,Kathye,3,Mass Customer,64,4,4008.84,37.0,1.0,8.0,22.0,1.0
+2279,Garrett,3,Mass Customer,36,8,4008.76,42.0,0.0,9.0,44.0,3.0
+3365,Karlens,3,Mass Customer,72,6,4003.36,29.0,0.0,9.0,46.0,10.65704063378482
+2397,Cassius,3,Affluent Customer,54,9,4002.32,33.0,1.0,7.0,38.0,4.0
+3224,Darell,3,Affluent Customer,52,9,4001.52,67.0,0.0,8.0,27.0,3.0
+697,Weston,3,Mass Customer,12,4,3996.6,25.0,0.0,7.0,36.0,10.0
+127,Merrili,3,Mass Customer,24,10,3993.71,81.0,0.0,1.0,48.0,19.0
+3198,Dur,3,Mass Customer,102,4,3989.35,66.0,1.0,8.0,26.0,1.0
+2698,Nedi,3,High Net Worth,13,7,3987.65,19.0,0.0,8.0,49.0,20.0
+556,Oralia,3,Mass Customer,10,5,3985.03,69.0,0.0,8.0,66.0,11.0
+3135,Titus,3,Mass Customer,122,7,3983.97,83.0,0.0,10.0,61.0,16.0
+2890,Nevile,3,Affluent Customer,87,7,3978.89,64.0,1.0,11.0,64.0,20.0
+500,Lazar,3,Affluent Customer,25,8,3977.81,19.0,1.0,7.0,31.0,10.0
+2044,Leyla,3,Mass Customer,6,5,3977.45,84.0,1.0,12.0,25.0,1.0
+3417,Deedee,3,Mass Customer,96,8,3975.14,91.0,0.0,12.0,50.0,7.0
+1947,Gretta,3,Affluent Customer,36,9,3974.81,66.0,1.0,8.0,59.0,18.0
+345,Tish,3,High Net Worth,20,7,3971.46,74.0,1.0,9.0,34.0,17.0
+727,Lenci,3,Mass Customer,62,6,3970.03,98.0,0.0,3.0,45.0,3.0
+1533,Sonia,3,Affluent Customer,105,8,3968.52,59.0,1.0,10.0,46.0,8.0
+975,Goldarina,3,Mass Customer,11,8,3962.88,26.0,0.0,8.0,46.0,10.65704063378482
+3344,Clerissa,3,Affluent Customer,11,7,3962.06,66.0,1.0,12.0,28.0,1.0
+1470,Albie,3,High Net Worth,2,8,3961.4,62.0,1.0,8.0,27.0,8.0
+2258,Cathy,3,High Net Worth,53,7,3957.53,63.0,0.0,11.0,49.0,7.0
+2884,Karola,3,Mass Customer,15,8,3957.41,99.0,0.0,9.0,61.0,15.0
+319,Madelle,3,Mass Customer,72,5,3955.91,32.0,1.0,8.0,52.0,14.0
+2022,Mortimer,3,Affluent Customer,14,5,3955.17,79.0,0.0,7.0,41.0,7.0
+1056,Kendricks,3,Affluent Customer,25,7,3954.42,96.0,0.0,7.0,56.0,6.0
+2852,Clarinda,3,High Net Worth,26,6,3954.0,20.0,1.0,9.0,52.0,14.0
+3390,Fayth,3,High Net Worth,19,5,3952.89,20.0,0.0,8.0,54.0,7.0
+421,Tish,3,Mass Customer,57,6,3952.15,26.0,1.0,3.0,24.0,2.0
+6,Curr,3,High Net Worth,65,5,3946.55,35.0,1.0,9.0,57.0,13.0
+892,Conroy,3,Mass Customer,91,10,3941.7,22.0,1.0,8.0,46.0,10.65704063378482
