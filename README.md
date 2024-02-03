@@ -39,9 +39,9 @@ The presentation included an overview of customer distribution, financial insigh
 
 #### Coding and visualization below;
 
-(https://drive.google.com/file/d/1QYGAMb4P7iCfmS9WHcr0dypqRFGJvCuW/view?usp=sharing)
+Task2:    https://colab.research.google.com/drive/1QYGAMb4P7iCfmS9WHcr0dypqRFGJvCuW#scrollTo=5f641077
 
-(https://drive.google.com/file/d/1UQwZI_dfm7OcgNgsUpCIi5dMk2E7Vpzy/view?usp=sharing)
+Task2.1:  https://colab.research.google.com/drive/1UQwZI_dfm7OcgNgsUpCIi5dMk2E7Vpzy#scrollTo=43e6b1ae
 
 ## Task 3 Data visualization and interactive dashboard
 
