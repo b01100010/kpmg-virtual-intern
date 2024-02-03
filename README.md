@@ -37,6 +37,12 @@ To initiate this process, a comprehensive approach will be outlined in a PowerPo
 
 The presentation included an overview of customer distribution, financial insights, and an elaboration on the subsequent business plan aimed at recommending potential customers.
 
+#### Coding and visualization below;
+
+[https://colab.research.google.com/drive/1QYGAMb4P7iCfmS9WHcr0dypqRFGJvCuW#scrollTo=37933594](https://drive.google.com/file/d/1QYGAMb4P7iCfmS9WHcr0dypqRFGJvCuW/view?usp=sharing)
+
+[(https://drive.google.com/file/d/1UQwZI_dfm7OcgNgsUpCIi5dMk2E7Vpzy/view?usp=sharing)](https://drive.google.com/file/d/1UQwZI_dfm7OcgNgsUpCIi5dMk2E7Vpzy/view?usp=sharing)
+
 ## Task 3 Data visualization and interactive dashboard
 
 ### Background
